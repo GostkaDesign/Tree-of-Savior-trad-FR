@@ -7,13 +7,14 @@ Version du jeu : 1.7 (Page d'accueil cliquez sur Crédits en bas à droite)
 
 ##Avancement (En cours d'évaluation de l'avancement)
 
-- Login screen: ___________________________ 0%
+- Login screen: ___________________________ 100%
 - Sélection des personnages: _____________ 0%
 - Création de personnage: _______________ 0%
-- Interface: ________________________________ 0%
+- Interface: ________________________________ 15%
 - Sorts: ____________________________________ 0%
 - Objets: __________________________________ 0%
 - Dialogues: ______________________________ 0%
+- Skills _________________________________ 0%
 
 
 
