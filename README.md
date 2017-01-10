@@ -5,15 +5,15 @@ Puisque tous les projets de traduction de ce jeux sont au point mort que diriez 
 
 Version du jeu : 1.7 (Page d'accueil cliquez sur Crédits en bas à droite)
 
-##Avancement
+##Avancement (En cours d'évaluation de l'avancement)
 
-- Login screen: _________________________ 0%
-- Sélection des personnages: ____________ 0%
+- Login screen: ___________________________ 0%
+- Sélection des personnages: _____________ 0%
 - Création de personnage: _______________ 0%
-- Interface: ____________________________ 0%
-- Sorts: ________________________________ 0%
-- Objets: _______________________________ 0%
-- Dialogues: ____________________________ 0%
+- Interface: ________________________________ 0%
+- Sorts: ____________________________________ 0%
+- Objets: __________________________________ 0%
+- Dialogues: ______________________________ 0%
 
 
 
