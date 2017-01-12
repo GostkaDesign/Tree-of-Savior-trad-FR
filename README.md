@@ -1,6 +1,7 @@
 # Tree-of-Savior-trad-FR
-## Dernière mise à jour : 12/01/2017
+## Dernière mise à jour : 13/01/2017
 Version du jeu : 1.7 (Page d'accueil cliquez sur Crédits en bas à droite)
+
 Realease révision : 149104
 
 
