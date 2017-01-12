@@ -2362,9 +2362,9 @@ QUEST_LV_0100_20150317_002361	But only you and I can save the world. {nl}I will 
 QUEST_LV_0100_20150317_002362	Revelation of Tenet Church
 QUEST_LV_0100_20150317_002363	Revelation of Kvailas Forest
 QUEST_LV_0100_20150317_002364	Revelation of Royal Mausoleum
-QUEST_LV_0100_20150317_002365	[Tutorial] Perler au chevalier Titas (1)
+QUEST_LV_0100_20150317_002365	[Tutorial] Parler au chevalier Titas (1)
 QUEST_LV_0100_20150317_002366	Return to Knight Titas
-QUEST_LV_0100_20150317_002367	[Tutorial] Perler au chevalier Titas (2)
+QUEST_LV_0100_20150317_002367	[Tutorial] Parler au chevalier Titas (2)
 QUEST_LV_0100_20150317_002368	Offer to help gather soldiers
 QUEST_LV_0100_20150317_002369	Decline
 QUEST_LV_0100_20150317_002370	Talk to the Scout (1)
@@ -2374,7 +2374,7 @@ QUEST_LV_0100_20150317_002373	Talk to the Scout (2)
 QUEST_LV_0100_20150317_002374	I'll find your missing belongings
 QUEST_LV_0100_20150317_002375	I'll wait until you find it
 QUEST_LV_0100_20150317_002376	key to check the map #7
-QUEST_LV_0100_20150317_002377	Perler au chevalier Titas (3)
+QUEST_LV_0100_20150317_002377	Parler au chevalier Titas (3)
 QUEST_LV_0100_20150317_002378	Alright
 QUEST_LV_0100_20150317_002379	Cancel
 QUEST_LV_0100_20150317_002380	Talk to the Search Scout
@@ -3825,7 +3825,7 @@ QUEST_LV_0100_20150317_003824	Crafting Armor (3)
 QUEST_LV_0100_20150317_003825	Crafting Armor (4)
 QUEST_LV_0100_20150317_003826	Talk to the Sentinel
 QUEST_LV_0100_20150317_003827	Ask the Sentinel for directions to Klaipeda.
-QUEST_LV_0100_20150317_003828	Perler au chevalier Titas in Western Forest Camp
+QUEST_LV_0100_20150317_003828	Parler au chevalier Titas in Western Forest Camp
 QUEST_LV_0100_20150317_003829	Ask Sir Titas what's blocking the way to Klaipeda.
 QUEST_LV_0100_20150317_003830	Ask Knight Titas for directions to Klaipeda
 QUEST_LV_0100_20150317_003831	Ask Knight Titas about the current situation.
@@ -6804,7 +6804,7 @@ QUEST_LV_0100_20150428_006803	Working on the copy/MAKING/3/TRACK_BEFORE/None/F_l
 QUEST_LV_0100_20150428_006804	Checking/MAKING/3/TRACK_BEFORE/None/F_lineup001/1/MID
 QUEST_LV_0100_20150428_006805	To Starving Demon's Way
 QUEST_LV_0100_20150428_006806	To Pioneering area of Gytise
-QUEST_LV_0100_20150428_006807	Perler au chevalier Titas again
+QUEST_LV_0100_20150428_006807	Parler au chevalier Titas again
 QUEST_LV_0100_20150428_006808	You dreamed about the goddess telling you to go to Klaipeda, but Knight Titas is asking you whether you could tell the order of gathering to them. Talk to Sir Titas again.
 QUEST_LV_0100_20150428_006809	Extinguished the research diary on the fire place
 QUEST_LV_0100_20150428_006810	You burned all diaries to calm his soul. Talk to the spirit of the adventurer, Varkis.
@@ -7619,8 +7619,8 @@ QUEST_LV_0100_20150714_007618	You've filled the Goddess Austeja's Scripture with
 QUEST_LV_0100_20150714_007619	You've filled the Goddess Austeja's Scripture with sacred energy. Offer it to the Sealed Tower.
 QUEST_LV_0100_20150714_007620	You've restored the seal. Tell Ramelia about it.
 QUEST_LV_0100_20150717_007621	Also, drop by the Tools Merchant for the warp scrolls I left with her.
-QUEST_LV_0100_20150717_007622	Perler au chevalier Titas (1)
-QUEST_LV_0100_20150717_007623	Perler au chevalier Titas (2)
+QUEST_LV_0100_20150717_007622	Parler au chevalier Titas (1)
+QUEST_LV_0100_20150717_007623	Parler au chevalier Titas (2)
 QUEST_LV_0100_20150717_007624	Collect %s from the Spare Purifier
 QUEST_LV_0100_20150717_007625	Defeat the Red Vubbe Fighter that suddenly appeared
 QUEST_LV_0100_20150717_007626	A Red Vubbe Fighter appeared when you opened the box! Defeat it.
