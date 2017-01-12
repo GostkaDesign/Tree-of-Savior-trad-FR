@@ -1,10 +1,13 @@
 # Tree-of-Savior-trad-FR
 ## Dernière mise à jour : 12/01/2017
+Version du jeu : 1.7 (Page d'accueil cliquez sur Crédits en bas à droite)
+Realease révision : 149104
+
+
 Traduction FR Tree of Savior Développeur : IMC Games Éditeur : Nexon
 
 Puisque tous les projets de traduction de ce jeux sont au point mort que diriez vous de le faire nous même?
 
-Version du jeu : 1.7 (Page d'accueil cliquez sur Crédits en bas à droite)
 
 ##Avancement (En cours d'évaluation de l'avancement)
 

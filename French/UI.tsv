@@ -24,8 +24,8 @@ UI_20150317_000023	3 heures 16 minutes
 UI_20150317_000024	{@st41b}Prix de départ
 UI_20150317_000025	{@st41b}Offres
 UI_20150317_000026	{@st41b}Prix courant
-UI_20150317_000027	{@st41b}Prix de soumission
-UI_20150317_000028	{@st41b}Prix de soumission minimal pour {@st57}%s{@st41b}silver{/}
+UI_20150317_000027	{@st41b}Prix d'enchère 
+UI_20150317_000028	{@st41b}Prix d'enchère minimal pour {@st57}%s{@st41b}silver{/}
 UI_20150317_000029	{@st41b}Offre{/}
 UI_20150317_000030	{@st43b}Acheter maintenant!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@st44}Gestion des permissions{/}
@@ -40,8 +40,8 @@ UI_20150317_000039	{@st49}Supprimer
 UI_20150317_000040	{@st44}Enregistrer{/}
 UI_20150317_000041	{@st44}Annuler{/}
 UI_20150317_000042	{@st43}{s22}Boutique de coiffure{/}
-UI_20150317_000043	{@st59}Coiffure Précédente{/}
-UI_20150317_000044	{@st59}Coiffure Suivante{/}
+UI_20150317_000043	{@st59}Coupe Précédente{/}
+UI_20150317_000044	{@st59}Coupe Suivante{/}
 UI_20150317_000045	{@st41b} Changer {s18} (100 TPs nécessaire) {/}
 UI_20150317_000046	{@st59}Changer avec la coiffure choisie.{/}
 UI_20150317_000047	{@st41}Annuler
@@ -59,7 +59,7 @@ UI_20150317_000058	Clear Time
 UI_20150317_000059	Score Total
 UI_20150317_000060	{@st42}Temps écoulé
 UI_20150317_000061	10 minutes
-UI_20150317_000062	10 seconds
+UI_20150317_000062	10 secondes
 UI_20150317_000063	{@st44}Completé
 UI_20150317_000064	{@st59}Fermer{/}
 UI_20150317_000065	{@st43}Distributeur Automatique d'Amélioration
@@ -139,14 +139,14 @@ UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Dessiner{/}{/}
 UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Enregistrer{/}{/}
 UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Importer{/}{/}
 UI_20150317_000141	{@st49}Fermer{/}
-UI_20150317_000142	{@st43}Adoption de Companion
-UI_20150317_000143	{@st59}Ecrivre le nom de votre tout nouveau Companion {/}
+UI_20150317_000142	{@st43}Adoption de Famillier
+UI_20150317_000143	{@st59}Ecrivre le nom de votre tout nouveau Famillier {/}
 UI_20150317_000144	{@st41b}Nom{/}
 UI_20150317_000145	{@st41b}Prix %s{/}
 UI_20150317_000146	{@st59}Fermer{/}
 UI_20150317_000147	{@st41b}Adopter
 UI_20150317_000148	{@st59}Confirmer{/}
-UI_20150317_000149	{@st43}Magasin de Companion
+UI_20150317_000149	{@st43}Magasin de Famillier
 UI_20150317_000150	{@st59}Fermer{/}
 UI_20150317_000151	{@st43}D'autre Infos sur le Personnage{/}{@st42}
 UI_20150317_000152	{@st59}Fermer{/}
@@ -196,7 +196,7 @@ UI_20150317_000195	{s20}{ol}%s Voulez-vous rejoindre?
 UI_20150317_000196	{s20}{ol}Participants : (1/5)
 UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
 UI_20150317_000198	{s20}{ol}Le jeu commencera après 1 second.
-UI_20150317_000199	{s20}{ol}Le jeu commencera après %s seconds.
+UI_20150317_000199	{s20}{ol}Le jeu commencera après %s secondes.
 UI_20150317_000200	Ne plus montrer ceci aujourd'hui.
 UI_20150317_000201	Ne pas montrer le Champ Evénements.
 UI_20150317_000202	Rejoindre la Partie
@@ -216,13 +216,13 @@ UI_20150317_000215	{@st41b}Gérer
 UI_20150317_000216	{@st41b}Envoyer une demande d'ami
 UI_20150317_000217	{@st41b}Bloquer
 UI_20150317_000218	{@st59}Rechercher{/}
-UI_20150317_000219	{@st44}Guild{/}
-UI_20150317_000220	Guild
+UI_20150317_000219	{@st44}Guilde{/}
+UI_20150317_000220	Guilde
 UI_20150317_000221	Liste
 UI_20150317_000222	Nouvelles
-UI_20150317_000223	Guild Mission
-UI_20150317_000224	Members Online
-UI_20150317_000225	{@st44}Créer une Guild{/}
+UI_20150317_000223	Mission de Guilde
+UI_20150317_000224	Membres en ligne
+UI_20150317_000225	{@st44}Créer une Guilde{/}
 UI_20150317_000226	{@st42}Créer{/}
 UI_20150317_000227	{@st42}Fermer{/}
 UI_20150317_000228	{@st42}Tous{/}
@@ -295,7 +295,7 @@ UI_20150317_000294	Barre de sancté du Monstre
 UI_20150317_000295	{@st44}Ensemble d'objets acquis{/}
 UI_20150317_000296	Clavier Guerrier
 UI_20150317_000297	Tués
-UI_20150317_000298	99 minutes 99 seconds
+UI_20150317_000298	99 minutes 99 secondes
 UI_20150317_000299	38000 points
 UI_20150317_000300	Potion de Vitesse Améliorée
 UI_20150317_000301	{@st41}Confirmer{/}
@@ -382,11 +382,11 @@ UI_20150317_000381	{@st44}Control directions{/}
 UI_20150317_000382	{@st44}Fire{/}
 UI_20150317_000383	Minigame
 UI_20150317_000384	{s18}{ol}{gr gradation1}Hide and seek minigame{/}
-UI_20150317_000385	{s16}Would you like to join the mini-game?
+UI_20150317_000385	{s16}Would you like to Rejoindre the mini-game?
 UI_20150317_000386	{s16}Participants : (0/5)
 UI_20150317_000387	{s16}Participants : (%s /%s)
 UI_20150317_000388	{s16}The game starts after 1 second.
-UI_20150317_000389	{s16}The game starts after %s seconds.
+UI_20150317_000389	{s16}The game starts after %s secondes.
 UI_20150317_000390	{@st59}Zoom +{/}
 UI_20150317_000391	{@st59}Zoom -{/}
 UI_20150317_000392	{@st59}Carte (M){/}
@@ -457,7 +457,7 @@ UI_20150317_000456	{@st41b}Enabled
 UI_20150317_000457	{@st41b}Disabled
 UI_20150317_000458	{@st41b}Create Party
 UI_20150317_000459	{@st43}Public Party List {/}
-UI_20150317_000460	{@st59b}Public Party List{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}
+UI_20150317_000460	{@st59b}Public Party List{nl}{@st59s} - Search for a party you want to Rejoindre by viewing the open parties in your server {nl} - Use the search option to find a party you want to Rejoindre{/}
 UI_20150317_000461	{@st59}Fermer Party List{/}
 UI_20150317_000462	Use Search
 UI_20150317_000463	Quest Sharing
@@ -468,44 +468,44 @@ UI_20150317_000467	{@st41b}Invite{/}
 UI_20150317_000468	{s18}{ol}{gr gradation1}Déconnexion PC rules{/}
 UI_20150317_000469	{ol}Conditions for applying rules
 UI_20150317_000470	{ol}Action for applying rules
-UI_20150317_000471	Enter a name for the rule
+UI_20150317_000471	Écrire un nom pour la règle
 UI_20150317_000472	{Gr gradation1}Registration{/}
 UI_20150317_000473	Register Rules
 UI_20150317_000474	{Gr gradation1}Annuler{/}
 UI_20150317_000475	Annuler Action
-UI_20150317_000476	{@st43}Companion Info
-UI_20150317_000477	{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}
+UI_20150317_000476	{@st43}Information sur le famillier
+UI_20150317_000477	{@st59b}Information sur le famillier{nl}{@st59s} - Vous pouvez Activer votre Famillier ou le laisser se Reposer en utilisant le bouton ci-dessous. {nl} - Les Attributs et les Objets Equipés sur votre Famillier peuvent êtres personnalisés. {/}
 UI_20150317_000478	{@st59}Fermer{/}
-UI_20150317_000479	{@st41b}Name : {@sti9}%s{/}
+UI_20150317_000479	{@st41b}Nom : {@sti9}%s{/}
 UI_20150317_000480	{@sti9}%s{@st41b}Fermerness : {@sti9}%s {@st41b}Level{/}
 UI_20150317_000481	{@st41b}EXP{/}
 UI_20150317_000482	{@st41b}Stamina{/}
 UI_20150317_000483	{@st41b}Affinity{/}
 UI_20150317_000484	{@st41b}Attributes and Information
-UI_20150317_000485	{@st43}Companion{/}
-UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}
+UI_20150317_000485	{@st43}Famillier{/}
+UI_20150317_000486	{@st59b}Famillier{nl}{@st59s} - Click on an item in the list to view more information. {/}
 UI_20150317_000487	{@st59}Fermer{/}
 UI_20150317_000488	{@st59}Fermer{/}
-UI_20150317_000489	{@st59}Help{nl} - View detailed information and tips. {nl} - View other topics from the Help List{/}
-UI_20150317_000490	{@st43}Help{/}
-UI_20150317_000491	Help Topics
-UI_20150317_000492	{ol}{#AAAA00}{s16}Elapsed Time : %s
-UI_20150317_000493	{@st43}Poison Pot{/}
+UI_20150317_000489	{@st59}Aide{nl} - View detailed information and tips. {nl} - View other topics from the Aide List{/}
+UI_20150317_000490	{@st43}Aide{/}
+UI_20150317_000491	Rubriques d'aide
+UI_20150317_000492	{ol}{#AAAA00}{s16}Temps écoulé : %s
+UI_20150317_000493	{@st43}Pot de Poison{/}
 UI_20150317_000494	{@st59}Fermer{/}
 UI_20150317_000495	{@st59}Need to write{/}
-UI_20150317_000496	Poison Amount: %s
+UI_20150317_000496	Quantité de Poison: %s
 UI_20150317_000497	Items that can be used to Craft poison
-UI_20150317_000498	Select All
-UI_20150317_000499	Click again to de-select all
+UI_20150317_000498	Tout sélectionner
+UI_20150317_000499	Cliquez à nouveau pour tout déselectionner
 UI_20150317_000500	Crafting
 UI_20150317_000501	shuffle shuffle mix and shuffle
 UI_20150317_000502	{@st43}Category{/}
 UI_20150317_000503	{@st43}Me{/}
-UI_20150317_000504	{@st43}Target{/}
+UI_20150317_000504	{@st43}Cible{/}
 UI_20150317_000505	{@st43}Level{/}
-UI_20150317_000506	{@st43}Funds{/}
-UI_20150317_000507	{@st43}Rate{/}
-UI_20150317_000508	{@st43}PvP Win/Loss Ratio{/}
+UI_20150317_000506	{@st43}Fonds{/}
+UI_20150317_000507	{@st43}Taux{/}
+UI_20150317_000508	{@st43}PvP Gagné/Perdu Ratio{/}
 UI_20150317_000509	{@st59}Fermer{/}
 UI_20150317_000510	{@sti5}Total Purchase Amount : %s{/}
 UI_20150317_000511	{@sti5}Total Amount : %s{/}
@@ -537,12 +537,12 @@ UI_20150317_000536	Which quest would you like to go back to?
 UI_20150317_000537	{@st41b}Quest class name{/}
 UI_20150317_000538	{@st59}Expand Slots{/}
 UI_20150317_000539	{@st59}Reduce Slots{/}
-UI_20150317_000540	{@st59}Summon Companion.{/}
+UI_20150317_000540	{@st59}Summon Famillier.{/}
 UI_20150317_000541	{@st44}Menu{/}
 UI_20150317_000542	{@st60}Character Selection{/}
 UI_20150317_000543	{@st60}Déconnexion{/}
 UI_20150317_000544	{@st60}Quit Game{/}
-UI_20150317_000545	{@st60}Game Settings{/}
+UI_20150317_000545	{@st60}Pramètres du jeux{/}
 UI_20150317_000546	{@st60}Go Back{/}
 UI_20150317_000547	{@st41}Skip Tutorial{/}
 UI_20150317_000548	{@st41}Character Selection{/}
@@ -551,13 +551,13 @@ UI_20150317_000550	{@st41}Quit Game{/}
 UI_20150317_000551	{@st41}Go Back{/}
 UI_20150317_000552	{@st43}{s22}Gather for the raid!
 UI_20150317_000553	{@st41b}Monstres are approaching the outskirts of the town castle. Only you can stop them.
-UI_20150317_000554	{@st43}{s22}Game Settings{/}
+UI_20150317_000554	{@st43}{s22}Pramètres du jeux{/}
 UI_20150317_000555	{@sti7}Searching for a raid party...{/}
 UI_20150317_000556	{@st41b}Annuler participation
 UI_20150317_000557	{@st41b}I'll do something about it!
-UI_20150317_000558	{@st41b}I don't think I can help this time...
+UI_20150317_000558	{@st41b}I don't think I can Aide this time...
 UI_20150317_000559	{@sti7}{s24}Select Raid Rewards{/}
-UI_20150317_000560	{@st42b}Remaining time {@st43}%s{@st42b} seconds{/}
+UI_20150317_000560	{@st42b}Remaining time {@st43}%s{@st42b} secondes{/}
 UI_20150317_000561	{@st41b}Increase the number of selections
 UI_20150317_000562	{@43b}{s22} No. of times selectable : {@st43}%s{/}
 UI_20150317_000563	shadow_box tentativeremoval
@@ -642,7 +642,7 @@ UI_20150317_000641	{@st41}Crafting Skills
 UI_20150317_000642	{@st42}Level %s{/}
 UI_20150317_000643	Crafting costs
 UI_20150317_000644	Crafting Qty
-UI_20150317_000645	Approximately %s seconds required
+UI_20150317_000645	Approximately %s secondes required
 UI_20150317_000646	{@st41}Craft
 UI_20150317_000647	{@st43}Skills & Attributes{/}
 UI_20150317_000648	{@st59}Fermer Classes & Skills{/}
@@ -947,31 +947,31 @@ UI_20150317_000946	{@St59}Settings{/}
 UI_20150317_000947	{@St59}Quit{/}
 UI_20150317_000948	{@st43}Lodge Settings{/}
 UI_20150317_000949	{@st59}Fermer{/}
-UI_20150317_000950	{@St42_b}{s18}{#f5c384}N; d'équipe{/}
+UI_20150317_000950	{@St42_b}{s18}{#f5c384}Nom de l'équipe{/}
 UI_20150317_000951	{@st59}Entrez un nom d'équipe' {/}
 UI_20150317_000952	{@st59}Enregistrer le nom de l'équipe{/}
-UI_20150317_000953	Provisional Delete
+UI_20150317_000953	Suppression temporaire
 UI_20150317_000954	{@St59}Fermer{/}
-UI_20150317_000955	{@St43}Lodge Decorating{/}
-UI_20150317_000956	{@St41b}Theme{/}
-UI_20150317_000957	{@St41b}Item Arrangement{/}
-UI_20150317_000958	{@St41b}Name
-UI_20150317_000959	{@St41b}Price
-UI_20150317_000960	{@St41b}State
-UI_20150317_000961	{@St44}New Character{/}
-UI_20150317_000962	{@St41b}{s22}Select Character Class{/}
-UI_20150317_000963	{@St41b}Return{/}
-UI_20150317_000964	{@St59}Go back to your Lodge without creating a character
-UI_20150317_000965	Change Character
-UI_20150317_000966	{@St41}Character{/}
-UI_20150317_000967	{@St59}Rotate clockwise{/}
-UI_20150317_000968	{@St59}Rotate counterclockwise{/}
+UI_20150317_000955	{@St43}Décoration de loge{/}
+UI_20150317_000956	{@St41b}Thème{/}
+UI_20150317_000957	{@St41b}Disposition des Objets{/}
+UI_20150317_000958	{@St41b}Nom
+UI_20150317_000959	{@St41b}Prix
+UI_20150317_000960	{@St41b}État
+UI_20150317_000961	{@St44}Nouveau Personnage{/}
+UI_20150317_000962	{@St41b}{s22}Choisir la Class du Personnage{/}
+UI_20150317_000963	{@St41b}Retour{/}
+UI_20150317_000964	{@St59}Retourner à votre loge sans créer de personnage
+UI_20150317_000965	Changer de Personnage
+UI_20150317_000966	{@St41}Personnage{/}
+UI_20150317_000967	{@St59}Tourner dans le sens des aiguilles d'une montre{/}
+UI_20150317_000968	{@St59}Tourner dans le sens contraire des aiguilles d'une montre{/}
 UI_20150317_000969	{@St43b}Character Rotation{/}
-UI_20150317_000970	{@st43}Character Name{/}
+UI_20150317_000970	{@st43}Nom du personnage{/}
 UI_20150317_000971	Entrez un nom{@st59} {/}
-UI_20150317_000972	{@St43b}Choose Gender{/}
-UI_20150317_000973	{@St59}Female{/}
-UI_20150317_000974	{@St59}Male{/}
+UI_20150317_000972	{@St43b}Choisir le genre{/}
+UI_20150317_000973	{@St59}Fille{/}
+UI_20150317_000974	{@St59}Garçon{/}
 UI_20150317_000975	{@st43b}Choose Hairstyle{/}
 UI_20150317_000976	{@st59}Hairstyle 1{/}
 UI_20150317_000977	{@st59}Hairstyle 2{/}
@@ -1001,7 +1001,7 @@ UI_20150317_001000	{@St43}{s26}Team Name{/}
 UI_20150317_001001	{@st59}Team Name{/}
 UI_20150317_001002	{@st41b}Changer le nom de l'éqiupe{/}
 UI_20150317_001003	{@st59}Changer le nom de l'éqiupe{/}
-UI_20150317_001004	{@St41}Companion{/}
+UI_20150317_001004	{@St41}Famillier{/}
 UI_20150317_001005	Chat Drag
 UI_20150317_001006	{@St44}New Dialog Name{/}
 UI_20150317_001007	{@St42}Change{/}
@@ -1012,7 +1012,7 @@ UI_20150317_001011	{@St59}Annuler character creation{/}
 UI_20150317_001012	{@St59}Fermer{/}
 UI_20150317_001013	{@St59}Create a team with the entered name{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
-UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{nl}         Team Name can be changed at any time using 150 TP.{/}
+UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, Guilde joining, conversation and more.{nl}         Team Name can be changed at any time using 150 TP.{/}
 UI_20150317_001016	Chargement du background
 UI_20150317_001017	Astuce
 UI_20150317_001018	Astuces de jeu
@@ -1066,7 +1066,7 @@ UI_20150317_001065	{@st41b}Annuler
 UI_20150317_001066	{@st59}Annuler Character Selection{/}
 UI_20150317_001067	Character Information
 UI_20150317_001068	{@st41}Bring Along
-UI_20150317_001069	{@st59}After clicking this, select a character for the companion to follow you{/}
+UI_20150317_001069	{@st59}After clicking this, select a character for the Famillier to follow you{/}
 UI_20150317_001070	UI of Item Creation
 UI_20150317_001071	{s24}Name :
 UI_20150317_001072	{s16} STR :
@@ -1084,8 +1084,8 @@ UI_20150317_001083	For adenomas hwageuk
 UI_20150317_001084	Puncture sex
 UI_20150317_001085	Yeonhwagyo
 UI_20150317_001086	{S16}Gender and Appearance
-UI_20150317_001087	Homme
-UI_20150317_001088	Femme
+UI_20150317_001087	Garçon
+UI_20150317_001088	Fille
 UI_20150317_001089	Hair Adjustment
 UI_20150317_001090	Key Adjustment
 UI_20150317_001091	Shoulder Width
@@ -1241,7 +1241,7 @@ UI_20150317_001240	Chandler bundle
 UI_20150317_001241	West forest etc...
 UI_20150317_001242	Consume TPs
 UI_20150317_001243	Category Name
-UI_20150317_001244	This is a Help
+UI_20150317_001244	This is a Aide
 UI_20150317_001245	{@Sti7}%s Points{/}
 UI_20150317_001246	{@st41b}%s Score
 UI_20150317_001247	Clear Quest 25
@@ -1275,7 +1275,7 @@ UI_20150317_001274	{@Sti9} Party Quest (%s){/}
 UI_20150317_001275	{@st41_yellow} Exploration Rate: %s% {/}
 UI_20150317_001276	{@st41_yellow} Score: %s {/}
 UI_20150317_001277	{@st42b}{b}Achievement Rate{/}
-UI_20150317_001278	{@st59}Join Party Quest{/}
+UI_20150317_001278	{@st59}Rejoindre Party Quest{/}
 UI_20150317_001279	Windows
 UI_20150317_001280	Status
 UI_20150317_001281	Tab
@@ -1306,7 +1306,7 @@ UI_20150323_001305	{@st41b}Renew
 UI_20150323_001306	{@st59}Renews the lasting time.{/}
 UI_20150323_001307	{@st41b}Base Camp Lasting Time
 UI_20150323_001308	{@st41b}Effect
-UI_20150323_001309	{@st42b}A base camp lasts for an additional 24 hours when renewed. Consumes %s silver.
+UI_20150323_001309	{@st42b}A base camp lasts for an additional 24 heures when renewed. Consumes %s silver.
 UI_20150323_001310	{@st41b}Personal Storage
 UI_20150323_001311	{@stc1}Storing and taking items in and from storage costs %s silver.{/}
 UI_20150323_001312	{@st41}{#ffff00}Lock Target{/}
@@ -1378,38 +1378,38 @@ UI_20150323_001377	{@st43}Stockage personnel{/}
 UI_20150323_001378	{@st59}Fermer Stockage personnel{/}
 UI_20150323_001379	{@sti6}Storing and taking items from storage costs %s silver...{/}
 UI_20150323_001380	{@st59}Alt+Z to change weapons{/}
-UI_20150323_001381	{@st59}Save Lodge Settings{/}
-UI_20150323_001382	Change Lodge
+UI_20150323_001381	{@st59}Sauvegarder les paramêtres de la Loge{/}
+UI_20150323_001382	Changer de Loge
 UI_20150323_001383	{@st59}Fermer
-UI_20150323_001384	{@st59}Change Lodge{nl} - Change the map and expand the number of available characters by changing your Lodge. 
+UI_20150323_001384	{@st59}Change Lodge{nl} - Changer la carte et augmenter le nombre de Personnages disponibles en changeant votre Loge. 
 UI_20150323_001385	{@st41}Annuler Preview
-UI_20150323_001386	{@st46}My TPs : %s{/}
-UI_20150323_001387	{@st41b}Change Lodge{/}
-UI_20150323_001388	{@st59}Decorate your Lodge{/}
-UI_20150323_001389	{@st41b}Lodge Settings{/}
-UI_20150323_001390	{@st59}Change Lodge Settings{/}
-UI_20150323_001391	{@st45ty}Character Greeting{/}
+UI_20150323_001386	{@st46}Mes TPs : %s{/}
+UI_20150323_001387	{@st41b}Changer de Loge{/}
+UI_20150323_001388	{@st59}Décorer votre Loge{/}
+UI_20150323_001389	{@st41b}Paramêtres de la Loge{/}
+UI_20150323_001390	{@st59}Changer les paramêtres de la Loge{/}
+UI_20150323_001391	{@st45ty}Salutation du Personnage{/}
 UI_20150323_001392	{@st45ty}Buy-in Shop
-UI_20150323_001393	{@st41b}Change
-UI_20150323_001394	{@st59}Change Character Greeting{/}
+UI_20150323_001393	{@st41b}Changer
+UI_20150323_001394	{@st59}Changer la salutation du Personnage{/}
 UI_20150323_001395	{@st59}Set Buy-in Shop{/}
-UI_20150323_001396	Quantity : %s{/}
+UI_20150323_001396	Quantité : %s{/}
 UI_20150323_001397	Search for items to buy
-UI_20150323_001398	Quantity
+UI_20150323_001398	Quantité
 UI_20150323_001399	Unit Price
 UI_20150323_001400	{@sti5}×%s{/}
-UI_20150323_001401	{@st41}Eat
-UI_20150323_001402	{@st41}Craft
-UI_20150323_001403	{@st41}Quantity
+UI_20150323_001401	{@st41}Manger
+UI_20150323_001402	{@st41}Fabriquer
+UI_20150323_001403	{@st41}Quantité
 UI_20150323_001404	{@st41}Consumable Material
 UI_20150401_001405	{@st59}Fermer{/}
 UI_20150401_001406	{@st41}Remove Base Camp
 UI_20150401_001407	{@st43}[Circle %s]{/}
 UI_20150401_001408	{@st43}Skill{/}
 UI_20150401_001409	{@st43}Class Tip{/}
-UI_20150401_001410	Class Tip
-UI_20150401_001411	{@st42}{#ffff00}Lock Target {/}
-UI_20150401_001412	{@st41}Remove Table
+UI_20150401_001410	Astuce de Classe
+UI_20150401_001411	{@st42}{#ffff00}Verouillage Cible {/}
+UI_20150401_001412	{@st41}Supprimer la Table
 UI_20150401_001413	{@st43}Tincturing{/}
 UI_20150401_001414	Manette Quick Slot
 UI_20150401_001415	{@st42}{#ffff00}Clavier Mode{/}
@@ -1417,9 +1417,9 @@ UI_20150401_001416	{@st43}Open Offering Box
 UI_20150401_001417	{@st41b}Open
 UI_20150401_001418	{@st41b}Offering Box
 UI_20150401_001419	{@st41}Offering Box Name
-UI_20150401_001420	Payment
-UI_20150401_001421	Estimated Profit
-UI_20150401_001422	Funds
+UI_20150401_001420	Paiement
+UI_20150401_001421	Bénéfice prévu
+UI_20150401_001422	Fonds
 UI_20150401_001423	{@st45tw}Offering Box Item Détails
 UI_20150401_001424	{@st41}Sell All
 UI_20150401_001425	{@st43}Offering Box
@@ -1459,7 +1459,7 @@ UI_20150406_001458	{@st42}Annuler
 UI_20150406_001459	{@stc1}Camp Duration
 UI_20150406_001460	{@st41b}Base Camp
 UI_20150406_001461	{@st41b}Camp Duration
-UI_20150406_001462	{@st42b}A base camp lasts for an additional 24 hours when renewed. {nl}%s silver is consumed.
+UI_20150406_001462	{@st42b}A base camp lasts for an additional 24 heures when renewed. {nl}%s silver is consumed.
 UI_20150406_001463	{@st41}Remove Camp
 UI_20150406_001464	{@st42}Remove Table
 UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Place a card on the deck to start summoning{/}
@@ -1499,9 +1499,9 @@ UI_20150428_001498	{@st43}Buy-in Shop{/}
 UI_20150428_001499	{@st41b}Fermer
 UI_20150428_001500	{@st41b}Bug Report
 UI_20150428_001501	{@st59}Notify us about bugs and issues{/}
-UI_20150428_001502	When you report a bug, your gameplay up to that point will be sent to our server.{nl}The replay file will be of much help in resolving the bug. Do you want to send it?
+UI_20150428_001502	When you report a bug, your gameplay up to that point will be sent to our server.{nl}The replay file will be of much Aide in resolving the bug. Do you want to send it?
 UI_20150428_001503	{@st41b}Bug description :{/}
-UI_20150428_001504	{@st41b}Entering a description is not mandatory, but it will help us a lot in analyzing the bug.
+UI_20150428_001504	{@st41b}Entering a description is not mandatory, but it will Aide us a lot in analyzing the bug.
 UI_20150428_001505	{@st41b}Send
 UI_20150428_001506	{@st42}{s14}{#ffff00}Target Lock{/}
 UI_20150428_001507	{@st59}Lock your target regardless of distance or direction
@@ -1586,7 +1586,7 @@ UI_20150714_001585	{@st42}Play Style{/}
 UI_20150714_001586	{@st42}Lv. Difference{/}
 UI_20150714_001587	Any
 UI_20150714_001588	{@st42}Class Type{/}
-UI_20150714_001589	{@st42}Party Name : %s{/}
+UI_20150714_001589	{@st42}Nom de la Partie : %s{/}
 UI_20150714_001590	{@st42}Description{/}
 UI_20150714_001591	{@st42}Entrer{/}
 UI_20150714_001592	{@st42}Item Distribution
@@ -1606,14 +1606,14 @@ UI_20150714_001605	By Quest
 UI_20150714_001606	By Fermerness
 UI_20150714_001607	{@st42}Share Party Invite Link
 UI_20150714_001608	>>Party Preview...
-UI_20150714_001609	Party Name : %s
+UI_20150714_001609	Nom de la Partie : %s
 UI_20150714_001610	Party Description : %s
 UI_20150714_001611	Created : %s ago
 UI_20150714_001612	Party Members : %s/5
-UI_20150714_001613	Join
-UI_20150714_001614	{@st59}Search by party name or description{/}
-UI_20150714_001615	Simple Help Détails
-UI_20150714_001616	{@st43}Message Box
+UI_20150714_001613	Rejoindre
+UI_20150714_001614	{@st59}Recher par Nom de la Partie ou par description{/}
+UI_20150714_001615	Simple Aide Détails
+UI_20150714_001616	{@st43}Boîte de Messages
 UI_20150714_001617	{@st41b}All
 UI_20150714_001618	{@st41b}Unread Messages
 UI_20150714_001619	{@st43}{s22}Choose a character to receive the items.{/}
@@ -1654,15 +1654,15 @@ UI_20150714_001653	{@st66b} %s silver is charged when storing and taking items f
 UI_20150714_001654	%s like me
 UI_20150714_001655	{@st41}Spectate
 UI_20150714_001656	{@st66b}Exit Spectator Mode
-UI_20150714_001657	Found a game. Do you want to join?
-UI_20150714_001658	{@st41}Join
+UI_20150714_001657	Found a game. Do you want to Rejoindre?
+UI_20150714_001658	{@st41}Rejoindre
 UI_20150714_001659	{@st41}Decline
-UI_20150714_001660	End Game
-UI_20150714_001661	Deaths
-UI_20150714_001662	Damage
-UI_20150714_001663	{@st41}Return to Zone
-UI_20150714_001664	{@st41b}Returning to Zone in %s seconds...{/}
-UI_20150714_001665	{@st59}Opens the Message Box{/}
+UI_20150714_001660	Fin du jeu
+UI_20150714_001661	Morts
+UI_20150714_001662	Dégats
+UI_20150714_001663	{@st41}Retourner à la Zone
+UI_20150714_001664	{@st41b}Retourner à la Zone dans %s secondes...{/}
+UI_20150714_001665	{@st59}Opens the Boîte de Messages{/}
 UI_20150714_001666	{@st42}Change Lodge{/}
 UI_20150714_001667	{@st42}Lodge Settings{/}
 UI_20150714_001668	{@st65}%s Score{/}
@@ -1670,9 +1670,9 @@ UI_20150714_001669	{@st65}×%s{/}
 UI_20150714_001670	{@st65}% Score{/}
 UI_20150714_001671	{@st65}×%s{/}
 UI_20150714_001672	Image Description
-UI_20150714_001673	{#000000}%s seconds
+UI_20150714_001673	{#000000}%s secondes
 UI_20150714_001674	{#000000}%s equipped
-UI_20150714_001675	Party Name : {#2c140c}%s{/}
+UI_20150714_001675	Nom de la Partie : {#2c140c}%s{/}
 UI_20150714_001676	Description : {#2c140c}%s{/}
 UI_20150714_001677	Average Party Level : {#2c140c}%s{/}
 UI_20150714_001678	Searching For : {#2c140c}%s{/}
@@ -1712,7 +1712,7 @@ UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
 UI_20150717_001714	{@st42b}Swordsman types can dash by pressing the arrow key twice.{/}
-UI_20150717_001715	{@st42}Party Name & Description{/}
+UI_20150717_001715	{@st42}Nom de la Partie & Description{/}
 UI_20150717_001716	{@st42}Insert Party Invite Tag
 UI_20150717_001717	{@st41b}Public Party List{/}
 UI_20150717_001718	{@st41b}Recommended Character List{/}
@@ -1760,13 +1760,13 @@ UI_20150729_001759	{@st41b}Skill Name
 UI_20150729_001760	{@st59}Accept Party Mission{/}
 UI_20150729_001761	{@st59}Delete this Ticket{/}
 UI_20150729_001762	Score
-UI_20150729_001763	Join Team Battle League
+UI_20150729_001763	Rejoindre Team Battle League
 UI_20150730_001764	{@st56}My Rank
 UI_20150730_001765	{@st56}Kill Rank
 UI_20150730_001766	{@st56}Damage Rank
 UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName chat
 UI_20150803_001768	{@st66b}Manette Vibration{/}
-UI_20150803_001769	A match has been found. Please wait until you can join the game.
+UI_20150803_001769	A match has been found. Please wait until you can Rejoindre the game.
 UI_20150804_001770	{@st43}{s18}Pick the character to receive the item.{/}
 UI_20150804_001771	Maximum Sockets : %s
 UI_20150807_001772	{@st41b}Détails {img red_down_arrow 16 16}
@@ -1819,7 +1819,7 @@ UI_20151016_001818	{@st42b}Preview
 UI_20151016_001819	{@st42b}Return
 UI_20151016_001820	{@st42b}Buy
 UI_20151016_001821	{@st42b}Use
-UI_20151016_001822	Guild Name & Description
+UI_20151016_001822	Guilde Name & Description
 UI_20151016_001823	Team Name
 UI_20151016_001824	Title
 UI_20151016_001825	Notice
@@ -1845,8 +1845,8 @@ UI_20151224_001844	Legs Quantity
 UI_20151224_001845	{@st41}Confirm
 UI_20151224_001846	{@st42}Use{/}
 UI_20151224_001847	{@st66b18}※ Purchases made with TP are not refundable.{/}
-UI_20151224_001848	{@st59}Guild  (/g chat){/}
-UI_20151224_001849	{@st59}Guild   (/g chat){/}
+UI_20151224_001848	{@st59}Guilde  (/g chat){/}
+UI_20151224_001849	{@st59}Guilde   (/g chat){/}
 UI_20151224_001850	{@st42}Text Size
 UI_20151224_001851	{@st66b}Information
 UI_20151224_001852	Goddess Statue HP
@@ -1859,16 +1859,16 @@ UI_20151224_001858	{@st66b}Food
 UI_20151224_001859	{@st66b}List
 UI_20151224_001860	{@st66b}Manage
 UI_20151224_001861	{@st59}Fermer{/}
-UI_20151224_001862	{@st43}Guild{/}
+UI_20151224_001862	{@st43}Guilde{/}
 UI_20151224_001863	{@st41b}Basic Information
 UI_20151224_001864	{@st41b}Property
-UI_20151224_001865	Looking for guild event participants.
+UI_20151224_001865	Looking for Guilde event participants.
 UI_20151224_001866	{@st41b}Upgrade & Rank
-UI_20151224_001867	{@st41b}Guild Attributes
-UI_20151224_001868	{@st43}Upgrade Guild{/}
+UI_20151224_001867	{@st41b}Guilde Attributes
+UI_20151224_001868	{@st43}Upgrade Guilde{/}
 UI_20151224_001869	Ch / Location
 UI_20151224_001870	Summon
-UI_20151224_001871	To Guild Member
+UI_20151224_001871	To Guilde Member
 UI_20151224_001872	Go
 UI_20151224_001873	{@st43}History{/}
 UI_20151224_001874	{@st59}Fermer{/}
@@ -1917,7 +1917,7 @@ UI_20151224_001916	{@st65}Highest First{/}
 UI_20151224_001917	{@st45tw2}Amount{/}
 UI_20151224_001918	{@st45tw2}Time until Retrieval{/}
 UI_20151224_001919	{@st66b}Sales Period & Commission Fee{/}
-UI_20151224_001920	{@st66}After 48 hours, you are able to retrieve your{nl}silver from the Market with exception of Tokens.
+UI_20151224_001920	{@st66}After 48 heures, you are able to retrieve your{nl}silver from the Market with exception of Tokens.
 UI_20151224_001921	{@st45tw2}Deadline{/}
 UI_20151224_001922	{@st45tw2}Commission Fee{/}
 UI_20151224_001923	{@st45tw2}Total Price{/}
@@ -1933,7 +1933,7 @@ UI_20151224_001932	{@st66b}Members{/}
 UI_20151224_001933	{@st66b}Party Event{/}
 UI_20151224_001934	{@st66b}Settings{/}
 UI_20151224_001935	{@st42b}Save{/}
-UI_20151224_001936	{@st41}Party Name & Description{/}
+UI_20151224_001936	{@st41}Nom de la Partie & Description{/}
 UI_20151224_001937	Show Nearby Parties
 UI_20151224_001938	Public Party
 UI_20151224_001939	Lv. Difference
@@ -1945,7 +1945,7 @@ UI_20151224_001944	{@st41b}Entrer
 UI_20151224_001945	{@st66b}Public Party List{/}
 UI_20151224_001946	{@st66b}Recommended Player List{/}
 UI_20151224_001947	Life
-UI_20151224_001948	{@st43}Message Box
+UI_20151224_001948	{@st43}Boîte de Messages
 UI_20151224_001949	{@st66b}All
 UI_20151224_001950	{@st66b}Unread
 UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quests window.{nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue.{nl} - The arrow on your character's foot leads to the location of your quest{nl} - A 'Return' icon is displayed in the quests window when a quest is completed{nl}  (Teleports you to the Quest NPC using the Backspace key or a mouse-click){nl} - Add or remove quests in the quests window by ticking or unticking the box in front of the quest name{/}
@@ -1995,8 +1995,8 @@ UI_20151224_001994	{@st59}Fermer{/}
 UI_20151224_001995	{@st43}Lodge Decoration{/}
 UI_20151224_001996	{@st41b}Lodge Visitation{/}
 UI_20151224_001997	{@st59}Visit the lodges of other players.{/}
-UI_20151224_001998	{@st41b}Message Box{/}
-UI_20151224_001999	{@st59}Open the Message Box{/}
+UI_20151224_001998	{@st41b}Boîte de Messages{/}
+UI_20151224_001999	{@st59}Open the Boîte de Messages{/}
 UI_20151224_002000	{@st42}Character{/}
 UI_20151224_002001	{@st42}Free TP{/}
 UI_20151224_002002	{@st42}Event TP{/}
@@ -2037,14 +2037,14 @@ UI_20151224_002036	{@st41b}Number
 UI_20151224_002037	Cash Garden %s{/}
 UI_20151224_002038	Show Online
 UI_20151224_002039	Hangout Entry
-UI_20151224_002040	Allow guild members only
+UI_20151224_002040	Allow Guilde members only
 UI_20151224_002041	War Records
-UI_20151224_002042	Guild Wars List
+UI_20151224_002042	Guilde Wars List
 UI_20151224_002043	Remaining Time
 UI_20151224_002044	Available Tower
-UI_20151224_002045	Upgrade Guild
+UI_20151224_002045	Upgrade Guilde
 UI_20151224_002046	Contribution Rank
-UI_20151224_002047	Guild Skills & Information
+UI_20151224_002047	Guilde Skills & Information
 UI_20151224_002048	{@st42}%s Benefits{/}
 UI_20151224_002049	Benefits
 UI_20160224_002050	Team Storage
@@ -2070,18 +2070,18 @@ UI_20160224_002069	{@st66b}(Up to two times for users with Token benefits){/}
 UI_20160224_002070	{@st41b}You have exceeded the number of times allowed.{/}
 UI_20160224_002071	{@st66b}Basic Info
 UI_20160224_002072	{@st66b}Property
-UI_20160224_002073	The guild master is searching for Guild Event participants.
+UI_20160224_002073	The Guilde master is searching for Guilde Event participants.
 UI_20160224_002074	{@st63_yellow}Members :{/}
 UI_20160224_002075	{@st63}%s participants (Login %s){/}
 UI_20160224_002076	{@st63_yellow}Location :{/}
 UI_20160224_002077	Cobalt Forest
 UI_20160224_002078	{@st63_yellow}Objective :{/}
-UI_20160224_002079	{@st43}Guild Lv. %s{/}
+UI_20160224_002079	{@st43}Guilde Lv. %s{/}
 UI_20160224_002080	{@st66b}Upgrade & Rank
-UI_20160224_002081	{@st66b}Guild Attributes
-UI_20160224_002082	Guild Storage
+UI_20160224_002081	{@st66b}Guilde Attributes
+UI_20160224_002082	Guilde Storage
 UI_20160224_002083	{@st59}Fermer{/}
-UI_20160224_002084	* The guild master can send items to guild members.{nl}* Items can be collected through the Message Box.
+UI_20160224_002084	* The Guilde master can send items to Guilde members.{nl}* Items can be collected through the Boîte de Messages.
 UI_20160224_002085	{@st41b}Enchant
 UI_20160224_002086	{@st41b}Enchant Scroll{/}
 UI_20160224_002087	{@st59}Fermer{/}
@@ -2093,7 +2093,7 @@ UI_20160224_002092	{@st66b}Earth Tower{/}
 UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Content where your group has to achieve certain objectives in independent instanced zones.{nl}You can either create a party before entering or automatically search for a party to challenge a dungeon.{nl} - Dungeons : Enter by talking to the dungeon entrance NPC in each respective level zone.{nl} - Missions : Enter by talking to the Mercenary Post Receptionists in Fedimian.{nl} - Saalus Convent Mission : Enter by talking to Sister Lhasa at Saalus Convent.{nl}{/}
 UI_20160224_002094	{@st59}Fermer{/}
 UI_20160224_002095	{@st59}Show/Do not show{/}
-UI_20160224_002096	{@st45tw2}Queuing Time{/}
+UI_20160224_002096	{@st45tw2}Délai d'attente{/}
 UI_20160224_002097	Bid
 UI_20160224_002098	Remaining Bidding Time
 UI_20160224_002099	Item Dice
@@ -2115,7 +2115,7 @@ UI_20160224_002114	Recent Records
 UI_20160224_002115	{@st45tw2}Category{/}
 UI_20160224_002116	{@st41c}%s{/}
 UI_20160224_002117	{@st41c}%sm{/}
-UI_20160224_002118	Temple Shooter is gathering the Vubbes back to the Crystal Mine that is now void of Mirtis' rule.{nl}Defeat Temple Shooter and help make Crystal Mine safe once more.
+UI_20160224_002118	Temple Shooter is gathering the Vubbes back to the Crystal Mine that is now void of Mirtis' rule.{nl}Defeat Temple Shooter and Aide make Crystal Mine safe once more.
 UI_20160224_002119	{@st41c}Chapter %s{/}
 UI_20160224_002120	Name & Class
 UI_20160224_002121	{@st41b}Refresh
@@ -2141,17 +2141,17 @@ UI_20160310_002140	{@sti9}Damage Ranking
 UI_20160317_002141	1 extra instance entry for missions and dungeons
 UI_20160317_002142	2 extra instance entries for missions and dungeons
 UI_20160323_002143	{@st41} My Summonee Info
-UI_20160323_002144	{@st41} Guild Battle Ranking{/}
-UI_20160323_002145	Guild Battle Ranking
+UI_20160323_002144	{@st41} Guilde Battle Ranking{/}
+UI_20160323_002145	Guilde Battle Ranking
 UI_20160323_002146	{@st59}Fermer
 UI_20160323_002147	{@st66b} Real-time Standings
 UI_20160323_002148	{@st66b} Weekly Standings
 UI_20160323_002149	{@st66b} All Time Standings{/}
-UI_20160323_002150	My Guild Ranking
+UI_20160323_002150	My Guilde Ranking
 UI_20160323_002151	{@sti1}%s's Location{/}
 UI_20160323_002152	Last week Standings
 UI_20160323_002153	1st
-UI_20160323_002154	Guild Reward List
+UI_20160323_002154	Guilde Reward List
 UI_20160323_002155	{@st41}Summoned Creature : {#ffcc33}%s{/}
 UI_20160323_002156	{@st41}Fragments Required : %s
 UI_20160323_002157	ATK : {@st41b}%s
@@ -2168,9 +2168,9 @@ UI_20160323_002167	{@st66b}Change Lodge{/}
 UI_20160323_002168	{@st43}{s26}Team Level %s{/}
 UI_20160323_002169	{@st66b}Team Info
 UI_20160323_002170	{#2c140c}Average Level : %s{/}
-UI_20160323_002171	{@st41b}Join
+UI_20160323_002171	{@st41b}Rejoindre
 UI_20160323_002172	{@st42} Character Greetings{/}
-UI_20160323_002173	[Server] Guild Name
+UI_20160323_002173	[Server] Guilde Name
 UI_20160323_002174	Record / Score
 UI_20160323_002175	[Created: %s ago]
 UI_20160411_002176	{@st66b}Use Camera Vibration{/}
@@ -2178,10 +2178,10 @@ UI_20160425_002177	{@st42}If both sides are using Tokens,{nl}the trade propertie
 UI_20160425_002178	{@st66b} Apply Background Effect
 UI_20160425_002179	{@st66b} Apply Dead Parts
 UI_20160425_002180	{@st66b} Apply Character Silhouettes
-UI_20160426_002181	{/}Do you want to delete your {b}{s20}Companion{/}{s43}{@st43}%s{/}{/}{b}{s20}?{/}
+UI_20160426_002181	{/}Do you want to delete your {b}{s20}Famillier{/}{s43}{@st43}%s{/}{/}{b}{s20}?{/}
 UI_20160426_002182	{/}{b}{s20}It cannot be recovered after being deleted.{/}
-UI_20160426_002183	{/}{b}{s20}Companion{/}{s43}{@st43}%s{/}
-UI_20160426_002184	{/}Deleting in {b}{s20}%s seconds.{/}
+UI_20160426_002183	{/}{b}{s20}Famillier{/}{s43}{@st43}%s{/}
+UI_20160426_002184	{/}Deleting in {b}{s20}%s secondes.{/}
 UI_20160426_002185	{s18}{ol}{#ffffcc}No{/}
 UI_20160426_002186	{s18}{ol}{#ffffcc}Annuler{/}
 UI_20160509_002187	Only Token users have access to Team Storage. Tradable items can be stored here.
@@ -2191,7 +2191,7 @@ UI_20160520_002190	{@st43}{s22}Steam Inventaire Item
 UI_20160520_002191	{@st45tw2}TP Purchase{/}
 UI_20160520_002192	Given TP
 UI_20160520_002193	{@st49}Use{/}
-UI_20160520_002194	{@st42}Guild War
+UI_20160520_002194	{@st42}Guilde War
 UI_20160520_002195	Declare Neutral
 UI_20160603_002196	{@st66b}Skill Control Speed (%s){/}
 UI_20160613_002197	{@st42}If both parties are using Tokens,{nl}tradable equipment items will not become untradable.{nl}{#FFFF00}Consumables and material items will become{nl}untradable regardless of Token use.{/}
@@ -2223,9 +2223,9 @@ UI_20160718_002222	{@sti8}{s18}{ds}Participants (%s){/}
 UI_20160718_002223	{@st41}Declined{/}
 UI_20160718_002224	{@st66d}%s participating (Among %s logged in){/}
 UI_20160718_002225	{@st41}Move to Zone
-UI_20160718_002226	{@st46}Guild Battle Results{/}
+UI_20160718_002226	{@st46}Guilde Battle Results{/}
 UI_20160718_002227	{@st45tw2}Battle Duration{/}
-UI_20160718_002228	{@st43b}Guild Tower HP{/}
+UI_20160718_002228	{@st43b}Guilde Tower HP{/}
 UI_20160718_002229	{@sti9}Total Kill Count{/}
 UI_20160718_002230	{@stz1}Total Death Count{/}
 UI_20160718_002231	{@sti1c}Record{/}
@@ -2245,7 +2245,7 @@ UI_20160718_002244	{@st59}Shows dead parts of defeated Monstres.{/}
 UI_20160718_002245	{@st66b}Show Character Silhouettes{/}
 UI_20160718_002246	{@st59}Characters hidden behind the background are shown in silhouettes.{/}
 UI_20160718_002247	Do you want to use this %s?{/}
-UI_20160718_002248	Unable to Use :
+UI_20160718_002248	Impossible à Utiliser :
 UI_20160718_002249	Day Hour Minute Second
 UI_20160718_002250	{@st42b}Siauliai{/}
 UI_20160718_002251	{#000000}Score{/}
@@ -2253,7 +2253,7 @@ UI_20160718_002252	{#000000}%s Points{/}
 UI_20160718_002253	Regional GvG Rankings
 UI_20160811_002254	{@st66b18}※ The item is consumed when you change name.{/}
 UI_20160811_002255	{@st42}Turn on Login Notifications
-UI_20160811_002256	{@white_16_ol}Guild Member{/}
+UI_20160811_002256	{@white_16_ol}Guilde Member{/}
 UI_20160811_002257	{@white_16_ol}Friend{/}
 UI_20160811_002258	{@st66d}{s18}{#FFFF18}[%s]{/}{nl}{@st66d}{s18}{#FFFFFF}Upon equip, one star will be removed{/}
 UI_20160811_002259	{@st66b}Removable Effect{/}
@@ -2307,22 +2307,22 @@ UI_20160811_002306	{@st59}View suggested dungeon locations{/}
 UI_20160811_002307	{@st41}Loge%s (%s/%s){/}
 UI_20160811_002308	{@st59}Aller à la loge.
 UI_20160811_002309	{@st59}Veuillez choisir un Serveur.{/}
-UI_20160811_002310	{@st59}Please select a server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
+UI_20160811_002310	{@st59}Veuillew choisir un Serveur.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
 UI_20160811_002311	{@st66b}Move to other lodge
 UI_20160811_002312	{@st59}Move Lodge.{/}
-UI_20160811_002313	{@st59}Delete Companion
-UI_20160811_002314	You feel better.
-UI_20160811_002315	Carpet-type
+UI_20160811_002313	{@st59}Supprimer le Famillier
+UI_20160811_002314	Vous vous sentez mieux.
+UI_20160811_002315	Tapis-type
 UI_20160811_002316	{@st42b}{s16}Charge{/}
 UI_20160811_002317	{@st66b}{s16}Preview{/}
 UI_20160811_002318	{@st42b}{s16}Add{/}
 UI_20160811_002319	Unlearned
 UI_20160811_002320	* When battling
 UI_20160811_002321	{@st66d}Equipped Weapon
-UI_20161005_002322	Change Appearance
+UI_20161005_002322	Changer l'aspect
 UI_20161005_002323	{@st45tw2}Material Weapon{/}
-UI_20161005_002324	{@st43}Enchant Armor{/}
-UI_20161005_002325	{@st66b}Enchant{/}
+UI_20161005_002324	{@st43}Enchantement d'Armure{/}
+UI_20161005_002325	{@st66b}Enchanter{/}
 UI_20161005_002326	{@st59}Fermer{/}
 UI_20161005_002327	{img silver 20 20}Price
 UI_20161005_002328	 Store Name
@@ -2330,19 +2330,19 @@ UI_20161005_002329	{@st66b}Shop{/}
 UI_20161005_002330	{img silver 20 20}Price
 UI_20161005_002331	{@st41b}Confirm
 UI_20161005_002332	{@st41b}Fermer
-UI_20161005_002333	{img squaier_buff 24 24}24 hours{/}
+UI_20161005_002333	{img squaier_buff 24 24}24 heures{/}
 UI_20161005_002334	{@st66b}Détails
 UI_20161005_002335	{@st66b}War
 UI_20161005_002336	{@st43}Homunculus Info{/}
-UI_20161005_002337	Duration
+UI_20161005_002337	Durée
 UI_20161005_002338	{@st66b}Physical Attack{/}
 UI_20161005_002339	{@st66b}Magic Attack{/}
 UI_20161005_002340	{@st66b}Physical Defense{/}
 UI_20161005_002341	{@st66b}Magic Defense{/}
 UI_20161005_002342	{@st42}Skill Settings{/}
 UI_20161005_002343	{@st66b}Up to four Homonculus AI skills can be set.{nl}Once applied, the set skill cannot be changed.{/}
-UI_20161005_002344	Name{/}
-UI_20161005_002345	Settings{/}
+UI_20161005_002344	Nom{/}
+UI_20161005_002345	Paramètres{/}
 UI_20161005_002346	{@st59}Fermer{/}
 UI_20161005_002347	{@st66d}You cannot revert this when the skill is applied.{nl}Do you wish to proceed?{/}
 UI_20161005_002348	It is a spell voucher that{nl}quickly defeats Monstres in an instanced dungeon.
@@ -2382,14 +2382,14 @@ UI_20161005_002381	{@st66e}%s{nl}Change from %s to {@st66d_y}%s{/}
 UI_20161005_002382	{@st66b}Restart{/}
 UI_20161005_002383	{@st66d_y}%s{/}
 UI_20161005_002384	Selected Option:{nl}%s
-UI_20161005_002385	Guild Attributes & Info
+UI_20161005_002385	Guilde Attributes & Info
 UI_20161005_002386	{@st66b}Save
 UI_20161005_002387	{@st42}One Line Message Board - Post Up to 3 Times A Day.{/}
 UI_20161005_002388	{@st42}Records
 UI_20161005_002389	GvG Ranks
 UI_20161005_002390	{@st66e}Forge (%s/%s){/}
 UI_20161005_002391	{@st66e}Shield Charger (%s/%s){/}
-UI_20161005_002392	{@st45tw2}Guild Member Only{/}
+UI_20161005_002392	{@st45tw2}Guilde Member Only{/}
 UI_20161005_002393	{@st42}Learning [%s] is required.{/}
 UI_20161005_002394	{@st66b}Coordinates{/}
 UI_20161005_002395	{@st42b}Open Portal
@@ -2473,8 +2473,8 @@ UI_20161214_002472	{@st66}List of Identifiable Items
 UI_20161214_002473	{@st41b}Identification Cost{/}
 UI_20161214_002474	{@st41b}Identify{/}
 UI_20161214_002475	Name
-UI_20161214_002476	{@st43}Companion Shop
-UI_20161214_002477	{@st66b}Adopt{/}
+UI_20161214_002476	{@st43}Famillier Shop
+UI_20161214_002477	{@st66b}Adopter{/}
 UI_20161214_002478	{@st66b}Pet Food{/}
 UI_20161214_002479	{img icon_item_silver 20 20}{@st41b}Proceed {/}{img white_right_arrow 15 18}
 UI_20161214_002480	{img icon_item_silver 20 20}{@st41b}Remaining Fund {/}{img white_right_arrow 15 18}
@@ -2490,32 +2490,32 @@ UI_20161214_002489	{@st41b}Annuler Multiply Mode
 UI_20161214_002490	Multiply Mode Number
 UI_20161214_002491	Please, wait.
 UI_20161214_002492	{@st66b}Equipment{/}
-UI_20161214_002493	{@st66b}Item{/}
+UI_20161214_002493	{@st66b}Objets{/}
 UI_20161214_002494	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}
 UI_20161214_002495	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}
-UI_20161214_002496	{@st66b}Save{/}
+UI_20161214_002496	{@st66b}Enregistrer{/}
 UI_20161214_002497	{@st66b}Show Damage On Other Characters
-UI_20161214_002498	{@st59}Please select a server.{/}
+UI_20161214_002498	{@st59}Veuillew choisir un Serveur.{/}
 UI_20161214_002499	{@st59}Record FPS and Activate Replay.{/}
 UI_20161214_002500	Current
 UI_20161214_002501	Max.
 UI_20161214_002502	{@st66b}Learn
 UI_20161214_002503	{img white_right_arrow 24 24}{@st66d_y} Total Cost{/}
-UI_20161214_002504	{@brown_16}Guild Participation{/}
+UI_20161214_002504	{@brown_16}Guilde Participation{/}
 UI_20161214_002505	{@black_18_b}Daily{/}
 UI_20161214_002506	{@black_18_b}Weekly (Reset every monday){/}
 UI_20161214_002507	{@brown_16}Individual Participation{/}
-UI_20161214_002508	Guild Authority
+UI_20161214_002508	Guilde Authority
 UI_20161221_002509	Are you sure you want to use the Rank Reset Voucher?
 UI_20161221_002510	The item will disappear from your{nl}Inventaire and your Rank choices will be reset.
 UI_20161221_002511	{@st66d_y}Conditions and Precautions{/}
 UI_20161221_002512	{@st58}No Items Equipped{/}
 UI_20161221_002513	{@st59}No Attribute Learning in Progress{/}
-UI_20161221_002514	{@st59}No Companions Following{/}
+UI_20161221_002514	{@st59}No Familliers Following{/}
 UI_20161221_002515	{@st59}Character in City{/}
 UI_20161221_002516	{@st59}No Shop Skills in Use{/}
 UI_20161221_002517	{@st59}No Crafting in Progress{/}
-UI_20161221_002518	{@st59}No Guild Master Templar Character{/}
+UI_20161221_002518	{@st59}No Guilde Master Templar Character{/}
 UI_20161221_002519	* Equipped Monstre Cards will be automatically{nl}removed without any penalties.
 UI_20161221_002520	* Attribute levels taken before the reset{nl}can be learned again at no cost after the reset.
 UI_20161221_002521	* EXP cards equivalent to the last Rank to have achieved{nl}
