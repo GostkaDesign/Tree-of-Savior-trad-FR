@@ -104,9 +104,9 @@ SKILL_20150317_000103	[Sauga] Physical, Strike, Earth Property Ground Smash
 SKILL_20150317_000104	Pumpkin Normal attack.
 SKILL_20150317_000105	Attack 2
 SKILL_20150317_000106	Pumpkin Normal attack 2.
-SKILL_20150317_000107	[Saurman Priest] Normal attack.
+SKILL_20150317_000107	[Saurman Prêtre] Normal attack.
 SKILL_20150317_000108	Skills
-SKILL_20150317_000109	[Saurman Priest] skills.
+SKILL_20150317_000109	[Saurman Prêtre] skills.
 SKILL_20150317_000110	Saurman Normal attack.
 SKILL_20150317_000111	Saurman Normal attack 2.
 SKILL_20150317_000112	Boy Ghost Normal attack.
@@ -184,8 +184,8 @@ SKILL_20150317_000183	Salamander attack
 SKILL_20150317_000184	[Vubbe Miner] Physical, Slash, Earth Property, Swing Pickaxe
 SKILL_20150317_000185	Hall statue attack
 SKILL_20150317_000186	Hall statue skill
-SKILL_20150317_000187	Priest attack 1
-SKILL_20150317_000188	Priest skill 1
+SKILL_20150317_000187	Prêtre attack 1
+SKILL_20150317_000188	Prêtre skill 1
 SKILL_20150317_000189	[Green Apparition] Magic, Magic, Lightning Property, Attack 1 time
 SKILL_20150317_000190	Attack Statue 1
 SKILL_20150317_000191	[Vubbe Theif] Physical, Slash, Earth Property, Spear Twirl
@@ -223,9 +223,9 @@ SKILL_20150317_000222	[Big Cockatrice]
 SKILL_20150317_000223	[Panto Shaman] Physical Normal Strike
 SKILL_20150317_000224	[Panto Shaman] Magic Lightning Property Strike
 SKILL_20150317_000225	[Panto Shaman] Magic Lightning Property Magic
-SKILL_20150317_000226	[Panto Wizard] Physical Normal Strike
-SKILL_20150317_000227	[Panto Wizard] Magic Lightning Property Strike
-SKILL_20150317_000228	[Panto Wizard] Magic Lightning Property Magic
+SKILL_20150317_000226	[Panto Magicien] Physical Normal Strike
+SKILL_20150317_000227	[Panto Magicien] Magic Lightning Property Strike
+SKILL_20150317_000228	[Panto Magicien] Magic Lightning Property Magic
 SKILL_20150317_000229	[Moya] Physical, Strike, Lightning Property Attack
 SKILL_20150317_000230	[Moyabu] Physical, Strike, Lightning Property Attack
 SKILL_20150317_000231	[Bavon] Physical, Strike, Earth Property Attack
@@ -349,17 +349,17 @@ SKILL_20150317_000348	[Flask] Physical, Strike, Fire Property, Attack
 SKILL_20150317_000349	[Black Shaman Doll] Physical, Pierce, Dark Property, Attack
 SKILL_20150317_000350	[Dimmer] Physical, Strike, Fire Property, Attack
 SKILL_20150317_000351	[Dimmer] Physical, Strike, Fire Property, Attack 2 times
-SKILL_20150317_000352	[Wizard Shaman Doll] Physical, Strike, Dark Property, Attack
-SKILL_20150317_000353	[Wizard Shaman Doll] Physical, Strike, Dark Property, Rotate and Attack 3 times
+SKILL_20150317_000352	[Magicien Shaman Doll] Physical, Strike, Dark Property, Attack
+SKILL_20150317_000353	[Magicien Shaman Doll] Physical, Strike, Dark Property, Rotate and Attack 3 times
 SKILL_20150317_000354	[Sequoia Flame] Magic, Magic, Fire Property, Attack
 SKILL_20150317_000355	[Raflower] Physical, Pierce, Poison Property, Tentacle Attack
 SKILL_20150317_000356	[Raflower] Physical, Pierce, Poison Property, Tentacle Attack
-SKILL_20150317_000357	[Vubbe Wizard] Magic, Magic, Fire Property, Energy Bolt
-SKILL_20150317_000358	[Vubbe Wizard] Magic, Magic, Fire Property, Reflect Shield Buff
-SKILL_20150317_000359	[Vubbe Fire Wizard] Magic, Magic, Fire Property, Range Fireball Attack
-SKILL_20150317_000360	[Vubbe Fire Wizard] Magic, Magic, Fire Property, Fire Pillar Attack
-SKILL_20150317_000361	[Vubbe Ice Wizard] Magic, Magic, Ice Property, Range Ice Bolt Attack
-SKILL_20150317_000362	[Vubbe Ice Wizard] Magic, Magic, Ice Property, Refreezer Wave Attack
+SKILL_20150317_000357	[Vubbe Magicien] Magic, Magic, Fire Property, Energy Bolt
+SKILL_20150317_000358	[Vubbe Magicien] Magic, Magic, Fire Property, Reflect Shield Buff
+SKILL_20150317_000359	[Vubbe Fire Magicien] Magic, Magic, Fire Property, Range Fireball Attack
+SKILL_20150317_000360	[Vubbe Fire Magicien] Magic, Magic, Fire Property, Fire Pillar Attack
+SKILL_20150317_000361	[Vubbe Ice Magicien] Magic, Magic, Ice Property, Range Ice Bolt Attack
+SKILL_20150317_000362	[Vubbe Ice Magicien] Magic, Magic, Ice Property, Refreezer Wave Attack
 SKILL_20150317_000363	[Vubbe Shaman] Magic, Magic, Dark Property, Heal Floor Skill
 SKILL_20150317_000364	[Vubbe Shaman] Magic, Magic, Dark Property, Floor Skill
 SKILL_20150317_000365	[Shredded] Magic, Magic, Dark Property, Teleport to pc and Attack
@@ -770,19 +770,19 @@ SKILL_20150317_000769	[Corrupted] Physical Dark Property Pierce
 SKILL_20150317_000770	[Carnivore] Monster Summon
 SKILL_20150317_000771	[Stone_Whale] Monster Summon
 SKILL_20150317_000772	[Paladin Master] Normal attack
-SKILL_20150317_000773	[Priest Master] Normal attack
-SKILL_20150317_000774	[Hunter Master] Normal attack
+SKILL_20150317_000773	[Prêtre Master] Normal attack
+SKILL_20150317_000774	[Chasseur Master] Normal attack
 SKILL_20150317_000775	[Krivis Master] Normal attack
-SKILL_20150317_000776	[Barbarian Master] Normal attack
+SKILL_20150317_000776	[Barbare Master] Normal attack
 SKILL_20150317_000777	[Linker Master] Normal attack
 SKILL_20150317_000778	[Wugushi Master] Normal attack
 SKILL_20150317_000779	[Sadhu Master] Normal attack
 SKILL_20150317_000780	[Rodelero Master] Normal attack
-SKILL_20150317_000781	[Scout Master] Normal attack
-SKILL_20150317_000782	[Rogue Master] Normal attack
-SKILL_20150317_000783	[Monk Master] Normal attack
+SKILL_20150317_000781	[Eclaireur Master] Normal attack
+SKILL_20150317_000782	[Assassin Master] Normal attack
+SKILL_20150317_000783	[Moine Master] Normal attack
 SKILL_20150317_000784	[Oracle Master] Normal attack
-SKILL_20150317_000785	[Druid Master] Normal attack
+SKILL_20150317_000785	[Druide Master] Normal attack
 SKILL_20150317_000786	Basic Attack
 SKILL_20150317_000787	Attack an enemy from a short distance.
 SKILL_20150317_000788	Right-hand Bow (Two-handed Bow only)
@@ -1999,7 +1999,7 @@ SKILL_20150317_001998	Inspiration
 SKILL_20150317_001999	Increases Defense level. {nl} (increased by level x 10)
 SKILL_20150317_002000	Enemies hit with strong strike have chance of fainting for 5 seconds.
 SKILL_20150317_002001	Traverse
-SKILL_20150317_002002	Move short distance at high speed. Stamina is consumed. Press arrow key twice to use. -- Squire Characteristic
+SKILL_20150317_002002	Move short distance at high speed. Stamina is consumed. Press arrow key twice to use. -- Ecuyer Characteristic
 SKILL_20150317_002003	Lv.1 STA consumption 4
 SKILL_20150317_002004	Shield Heater
 SKILL_20150317_002005	Reflect attacks when using skill Parrying. (Reflected damage increases in proportion to the defense force and attribute level.)
@@ -2075,7 +2075,7 @@ SKILL_20150317_002074	Shield Lob: Splash
 SKILL_20150317_002075	Increases the splash from [Shield Lob] by 1 per attribute level.
 SKILL_20150317_002076	Shield Mastery
 SKILL_20150317_002077	Increases Block by 5% per attribute when equipped with a shield.
-SKILL_20150317_002078	Peltasta: Guard
+SKILL_20150317_002078	Peltaste: Guard
 SKILL_20150317_002079	Use [Guard] by pressing the C button after equipping a shield.
 SKILL_20150317_002080	Block: Counter Attack
 SKILL_20150317_002081	Adds 200% damage to [Umbo Blow] after a successful [Block]. In addition, increases your Critical Damage by 5% for 5 seconds per level.
@@ -2231,7 +2231,7 @@ SKILL_20150317_002230	Hail: Freeze
 SKILL_20150317_002231	Enemies attacked with [Hail] falls under [Freeze] at a 5% chance per Attribute level.
 SKILL_20150317_002232	Meteor: Evasion
 SKILL_20150317_002233	Evasion increase by 10 per attribute level when charging [Meteor].
-SKILL_20150317_002234	Elementalist: Resistance
+SKILL_20150317_002234	Elementaliste: Resistance
 SKILL_20150317_002235	Fire, Ice, and Lightning Resistances increase by 5 per attribute level.
 SKILL_20150317_002236	Quicken: Critical Rate
 SKILL_20150317_002237	Critical chance for [Quicken] increases by 5% per attribute level, while evasion is reduced by 2% per attribute level.
@@ -2284,7 +2284,7 @@ SKILL_20150317_002283	Enemies attacked with [Strike] type basic attacks have a 2
 SKILL_20150317_002284	Krivis: Fire Property Resistance
 SKILL_20150317_002285	Character's Fire Resistance increases by 5 per attribute level while Dark Resistance decreases by 3 per attribute level.
 SKILL_20150317_002286	Zalciai: Intelligence
-SKILL_20150317_002287	Applies a transformation of STR to INT when [Zalciai] is applied to Cleric-type classes.
+SKILL_20150317_002287	Applies a transformation of STR to INT when [Zalciai] is applied to Clerc-type classes.
 SKILL_20150317_002288	Divine Stigma: Intelligence
 SKILL_20150317_002289	Increases INT by 20% per level when using [Divine Stigma].
 SKILL_20150317_002290	Zaibas: Splash
@@ -2587,39 +2587,39 @@ SKILL_20150317_002586	Increases the additional damage of [Steady Aim] per attrib
 SKILL_20150317_002587	Sacrament: Enhance
 SKILL_20150317_002588	Increases the Holy property attack of [Sacrament] per attribute level.
 SKILL_20150317_002589	Bash: Enhance 2
-SKILL_20150317_002590	Enhanced the damage of [Bash] to Swordsman's 2nd Circle standards. 
+SKILL_20150317_002590	Enhanced the damage of [Bash] to Epéiste's 2nd Circle standards. 
 SKILL_20150317_002591	Bash: Enhance 3
-SKILL_20150317_002592	Enhanced the damage of [Bash] to Swordsman's 3rd Circle standards. 
+SKILL_20150317_002592	Enhanced the damage of [Bash] to Epéiste's 3rd Circle standards. 
 SKILL_20150317_002593	Thrust: Enhance 2
-SKILL_20150317_002594	Enhanced the damage of [Thrust] to Swordsman's 2nd Circle standards. 
+SKILL_20150317_002594	Enhanced the damage of [Thrust] to Epéiste's 2nd Circle standards. 
 SKILL_20150317_002595	Thrust: Enhance 3
-SKILL_20150317_002596	Enhanced the damage of [Thrust] to Swordsman's 3rd Circle standards. 
+SKILL_20150317_002596	Enhanced the damage of [Thrust] to Epéiste's 3rd Circle standards. 
 SKILL_20150317_002597	Gung Ho: Enhance 2
-SKILL_20150317_002598	Enhanced the physical attack increase effect of [Gung Ho] to Swordsman's 2nd Circle standards. (Defense decrease effect also increases.)
+SKILL_20150317_002598	Enhanced the physical attack increase effect of [Gung Ho] to Epéiste's 2nd Circle standards. (Defense decrease effect also increases.)
 SKILL_20150317_002599	Gung Ho: Enhance 3
-SKILL_20150317_002600	Enhanced the physical attack increase effect of [Gung Ho] to Swordsman's 3rd Circle standards. (Defense decrease effect also increases.)
+SKILL_20150317_002600	Enhanced the physical attack increase effect of [Gung Ho] to Epéiste's 3rd Circle standards. (Defense decrease effect also increases.)
 SKILL_20150317_002601	Concentrate: Enhance 2
-SKILL_20150317_002602	Enhanced the additional damage increase effect of [Concentrate] to Swordsman's 2nd Circle standards. 
+SKILL_20150317_002602	Enhanced the additional damage increase effect of [Concentrate] to Epéiste's 2nd Circle standards. 
 SKILL_20150317_002603	Concentrate: Enhance 3
-SKILL_20150317_002604	Enhanced the additional damage increase effect of [Concentrate] to Swordsman's 3rd Circle standards.  
+SKILL_20150317_002604	Enhanced the additional damage increase effect of [Concentrate] to Epéiste's 3rd Circle standards.  
 SKILL_20150317_002605	Restrain: Enhance 2
-SKILL_20150317_002606	Enhanced the physical attack of [Restrain] to Swordsman's 3rd Circle standards. (Maximum HP decrease effect also decreases.)
+SKILL_20150317_002606	Enhanced the physical attack of [Restrain] to Epéiste's 3rd Circle standards. (Maximum HP decrease effect also decreases.)
 SKILL_20150317_002607	Lethargy: Enhance
 SKILL_20150317_002608	Increases the damage debuff effect of [Lethargy] per attribute level standards.
 SKILL_20150317_002609	Energy Bolt: Enhance 2
-SKILL_20150317_002610	Enhanced the damage of [Energy Bolt] to the Wizard's 2nd Circle standards.
+SKILL_20150317_002610	Enhanced the damage of [Energy Bolt] to the Magicien's 2nd Circle standards.
 SKILL_20150317_002611	Energy Bolt: Enhance 3
-SKILL_20150317_002612	Enhanced the damage of [Energy Bolt] to Wizard's 3rd Circle standards.
+SKILL_20150317_002612	Enhanced the damage of [Energy Bolt] to Magicien's 3rd Circle standards.
 SKILL_20150317_002613	Reflect Shield: Enhance 2
-SKILL_20150317_002614	Enhanced the damage reflect of [Reflect shield] to Wizard's 2nd Circle standards.
+SKILL_20150317_002614	Enhanced the damage reflect of [Reflect shield] to Magicien's 2nd Circle standards.
 SKILL_20150317_002615	Reflect Shield: Enhance 3
-SKILL_20150317_002616	Enhanced the damage reflect of [Reflect shield] to Wizard's 3rd Circle standards.
+SKILL_20150317_002616	Enhanced the damage reflect of [Reflect shield] to Magicien's 3rd Circle standards.
 SKILL_20150317_002617	Lethargy: Enhance 2
-SKILL_20150317_002618	Enhanced the damage debuff effect of [Lethargy] to Wizard's 2nd Circle standards.
+SKILL_20150317_002618	Enhanced the damage debuff effect of [Lethargy] to Magicien's 2nd Circle standards.
 SKILL_20150317_002619	Lethargy: Enhance 3
-SKILL_20150317_002620	Enhanced the damage debuff effect of [Lethargy] to Wizard's 3rd Circle standards.
+SKILL_20150317_002620	Enhanced the damage debuff effect of [Lethargy] to Magicien's 3rd Circle standards.
 SKILL_20150317_002621	Earthquake: Enhance 2
-SKILL_20150317_002622	The damage of [Earthquake] to Wizard's 3rd Circle standards.
+SKILL_20150317_002622	The damage of [Earthquake] to Magicien's 3rd Circle standards.
 SKILL_20150317_002623	Multi Shot: Enhance 2
 SKILL_20150317_002624	Enhanced the damage of [Multi Shot] to Archer's 2nd Circle standards.
 SKILL_20150317_002625	Multi Shot: Enhance 3
@@ -2639,63 +2639,63 @@ SKILL_20150317_002638	Enhanced the physical attack increase effect of [Kneeling 
 SKILL_20150317_002639	Deprotected Zone: Enhance
 SKILL_20150317_002640	Increases the defense debuff effect of [Deprotected Zone] per attribute level.
 SKILL_20150317_002641	Cure: Enhance 2
-SKILL_20150317_002642	Enhanced the damage of [Cure] to Cleric's 2nd Circle standards.
+SKILL_20150317_002642	Enhanced the damage of [Cure] to Clerc's 2nd Circle standards.
 SKILL_20150317_002643	Cure: Enhance 3
-SKILL_20150317_002644	Enhanced the damage of [Cure] to Cleric's 3rd Circle standards.
+SKILL_20150317_002644	Enhanced the damage of [Cure] to Clerc's 3rd Circle standards.
 SKILL_20150317_002645	Heal: Enhance 2
-SKILL_20150317_002646	Enhanced the damage and healing amount of [Heal] to Cleric's 2nd Circle standards.
+SKILL_20150317_002646	Enhanced the damage and healing amount of [Heal] to Clerc's 2nd Circle standards.
 SKILL_20150317_002647	Heal: Enhance 3
-SKILL_20150317_002648	Enhanced the damage and healing amount of [Heal] to Cleric's 3rd Circle standards.
+SKILL_20150317_002648	Enhanced the damage and healing amount of [Heal] to Clerc's 3rd Circle standards.
 SKILL_20150317_002649	Deprotected Zone: Enhance 2
-SKILL_20150317_002650	Enhanced the defense debuff effect of [Deprotected Zone] to Cleric's 2nd Circle standards.
+SKILL_20150317_002650	Enhanced the defense debuff effect of [Deprotected Zone] to Clerc's 2nd Circle standards.
 SKILL_20150317_002651	Deprotected Zone: Enhance 3
-SKILL_20150317_002652	Enhanced the defense debuff effect of [Deprotected Zone] to Cleric's 3rd Circle standards.
+SKILL_20150317_002652	Enhanced the defense debuff effect of [Deprotected Zone] to Clerc's 3rd Circle standards.
 SKILL_20150317_002653	Fire Ball: Enhance 2
-SKILL_20150317_002654	Enhanced the damage of [Fireball] to Pyromancer's 2nd Circle standards.
+SKILL_20150317_002654	Enhanced the damage of [Fireball] to Pyromancien's 2nd Circle standards.
 SKILL_20150317_002655	Fire Ball: Enhance 3
-SKILL_20150317_002656	Enhanced the damage of [Fireball] to Pyromancer's 3rd Circle standards.
+SKILL_20150317_002656	Enhanced the damage of [Fireball] to Pyromancien's 3rd Circle standards.
 SKILL_20150317_002657	Fire Wall: Enhance 2
-SKILL_20150317_002658	Enhanced the damage of [Fire Wall] to Pyromancer's 2nd Circle standards.
+SKILL_20150317_002658	Enhanced the damage of [Fire Wall] to Pyromancien's 2nd Circle standards.
 SKILL_20150317_002659	Fire Wall: Enhance 3
-SKILL_20150317_002660	Enhanced the damage of [Fire Wall] to Pyromancer's 3rd Circle standards.
+SKILL_20150317_002660	Enhanced the damage of [Fire Wall] to Pyromancien's 3rd Circle standards.
 SKILL_20150317_002661	Flare: Enhance 2
-SKILL_20150317_002662	Enhanced the damage of [Flare] to Pyromancer's 2nd Circle standards.
+SKILL_20150317_002662	Enhanced the damage of [Flare] to Pyromancien's 2nd Circle standards.
 SKILL_20150317_002663	Flare: Enhance 3
-SKILL_20150317_002664	Enhanced the damage of [Flare] to Pyromancer's 3rd Circle standards.
+SKILL_20150317_002664	Enhanced the damage of [Flare] to Pyromancien's 3rd Circle standards.
 SKILL_20150317_002665	Enchant Fire: Enhance 2
-SKILL_20150317_002666	Enhanced the Fire property attack increase effect of [Enchant Fire] to Pyromancer's 2nd Circle standards.
+SKILL_20150317_002666	Enhanced the Fire property attack increase effect of [Enchant Fire] to Pyromancien's 2nd Circle standards.
 SKILL_20150317_002667	Enchant Fire: Enhance 3
-SKILL_20150317_002668	Enhanced the Fire property attack increase effect of [Enchant Fire] to Pyromancer's 3rd Circle standards.
+SKILL_20150317_002668	Enhanced the Fire property attack increase effect of [Enchant Fire] to Pyromancien's 3rd Circle standards.
 SKILL_20150317_002669	Fire Pillar: Enhance 2
-SKILL_20150317_002670	Enhanced the damage of [Fire Pillar] to Pyromancer's 3rd Circle standards.
+SKILL_20150317_002670	Enhanced the damage of [Fire Pillar] to Pyromancien's 3rd Circle standards.
 SKILL_20150317_002671	Ice Bolt: Enhance 2
-SKILL_20150317_002672	Enhanced the damage of [Ice Bolt] to Cryomancer's 2nd Circle standards.
+SKILL_20150317_002672	Enhanced the damage of [Ice Bolt] to Cryomancien's 2nd Circle standards.
 SKILL_20150317_002673	Ice Bolt: Enhance 3
-SKILL_20150317_002674	Enhanced the damage of [Ice Bolt] to Cryomancer's 3rd Circle standards.
+SKILL_20150317_002674	Enhanced the damage of [Ice Bolt] to Cryomancien's 3rd Circle standards.
 SKILL_20150317_002675	Ice Pike: Enhance 2
-SKILL_20150317_002676	Enhanced the damage of [Ice Pike] to Cryomancer's 2nd Circle standards.
+SKILL_20150317_002676	Enhanced the damage of [Ice Pike] to Cryomancien's 2nd Circle standards.
 SKILL_20150317_002677	Ice Pike: Enhance 3
-SKILL_20150317_002678	Enhanced the damage of [Ice Pike] to Cryomancer's 3rd Circle standards.
+SKILL_20150317_002678	Enhanced the damage of [Ice Pike] to Cryomancien's 3rd Circle standards.
 SKILL_20150317_002679	Ice Blast: Enhance 2
-SKILL_20150317_002680	Enhanced the damage of [Ice Blast] to Cryomancer's 2nd Circle standards.
+SKILL_20150317_002680	Enhanced the damage of [Ice Blast] to Cryomancien's 2nd Circle standards.
 SKILL_20150317_002681	Ice Blast: Enhance 3
-SKILL_20150317_002682	Enhanced the damage of [Ice Blast] to Cryomancer's 3rd Circle standards.
+SKILL_20150317_002682	Enhanced the damage of [Ice Blast] to Cryomancien's 3rd Circle standards.
 SKILL_20150317_002683	Shield Lob: Enhance
 SKILL_20150317_002684	Increases the damage of [Shield Lob] per attribute level.
 SKILL_20150317_002685	Rim Blow: Enhance 2
-SKILL_20150317_002686	Enhanced the damage of [Rim Blow] to Peltasta's 2nd Circle standards.
+SKILL_20150317_002686	Enhanced the damage of [Rim Blow] to Peltaste's 2nd Circle standards.
 SKILL_20150317_002687	Rim Blow: Enhance 3
-SKILL_20150317_002688	Enhanced the damage of [Rim Blow] to Peltasta's 3rd Circle standards.
+SKILL_20150317_002688	Enhanced the damage of [Rim Blow] to Peltaste's 3rd Circle standards.
 SKILL_20150317_002689	Umbo Blow: Enhance 2
-SKILL_20150317_002690	Enhanced the damage of [Umbo Blow] to Peltasta's 2nd Circle standards.
+SKILL_20150317_002690	Enhanced the damage of [Umbo Blow] to Peltaste's 2nd Circle standards.
 SKILL_20150317_002691	Umbo Blow: Enhance 3
-SKILL_20150317_002692	Enhanced the damage of [Umbo Blow] to Peltasta's 3rd Circle standards.
+SKILL_20150317_002692	Enhanced the damage of [Umbo Blow] to Peltaste's 3rd Circle standards.
 SKILL_20150317_002693	Guardian: Enhance 2
-SKILL_20150317_002694	Applied the defense increase effect of [Guardian] to Peltasta's 2nd Circle standards. (Physical attack decrease effect will also increase.)
+SKILL_20150317_002694	Applied the defense increase effect of [Guardian] to Peltaste's 2nd Circle standards. (Physical attack decrease effect will also increase.)
 SKILL_20150317_002695	Guardian: Enhance 3
-SKILL_20150317_002696	Applied the defense increase effect of [Guardian] to Peltasta's 3rd Circle standards. (Physical attack decrease effect will also increase.)
+SKILL_20150317_002696	Applied the defense increase effect of [Guardian] to Peltaste's 3rd Circle standards. (Physical attack decrease effect will also increase.)
 SKILL_20150317_002697	Shield Lob: Enhance 2
-SKILL_20150317_002698	Enhanced the damage of [Shield Lob] to Peltasta's 3rd Circle standards.
+SKILL_20150317_002698	Enhanced the damage of [Shield Lob] to Peltaste's 3rd Circle standards.
 SKILL_20150317_002699	Cartar Stroke: Enhance 2
 SKILL_20150317_002700	Enhanced the damage of [Cartar Stroke] to Highlander's 2nd Circle standards.
 SKILL_20150317_002701	Cartar Stroke: Enhance 3
@@ -2747,16 +2747,16 @@ SKILL_20150317_002746	Enhanced the additional damage effect of [Steady Aim] to R
 SKILL_20150317_002747	Steady Aim: Enhance 3
 SKILL_20150317_002748	Enhanced the additional damage effect of [Steady Aim] to Ranger's 3rd Circle standards.
 SKILL_20150317_002749	Scatter Caltrops: Enhance 2
-SKILL_20150317_002750	Enhanced the damage of [Scatter Caltrops] to Quarrel Shooter's 2nd Circle standards.
+SKILL_20150317_002750	Enhanced the damage of [Scatter Caltrops] to Arbalétrier's 2nd Circle standards.
 SKILL_20150317_002751	Scatter Caltrops: Enhance 3
-SKILL_20150317_002752	Enhanced the damage of [Scatter Caltrops] to Quarrel Shooter's 3rd Circle standards.
+SKILL_20150317_002752	Enhanced the damage of [Scatter Caltrops] to Arbalétrier's 3rd Circle standards.
 SKILL_20150317_002753	Stone Shot: Enhance 2
-SKILL_20150317_002754	Enhanced the damage of [Stone Shot] to Quarrel Shooter's 2nd Circle standards.
+SKILL_20150317_002754	Enhanced the damage of [Stone Shot] to Arbalétrier's 2nd Circle standards.
 SKILL_20150317_002755	Stone Shot: Enhance 3
-SKILL_20150317_002756	Enhanced the damage of [Stone Shot] to Quarrel Shooter's 3rd Circle standards.
+SKILL_20150317_002756	Enhanced the damage of [Stone Shot] to Arbalétrier's 3rd Circle standards.
 SKILL_20150317_002757	Rapid Fire: Enhance 2
-SKILL_20150317_002758	Enhanced the damage of [Rapid Fire] to Quarrel Shooter's 2nd Circle standards.
-SKILL_20150317_002759	Enhanced the damage of [Rapid Fire] to Quarrel Shooter's 3rd Circle standards.
+SKILL_20150317_002758	Enhanced the damage of [Rapid Fire] to Arbalétrier's 2nd Circle standards.
+SKILL_20150317_002759	Enhanced the damage of [Rapid Fire] to Arbalétrier's 3rd Circle standards.
 SKILL_20150317_002760	Zaibas: Enhance 2
 SKILL_20150317_002761	Enhanced the damage of [Zaibas] to Krivis' 2nd Circle standards.
 SKILL_20150317_002762	Zaibas: Enhance 3
@@ -2764,57 +2764,57 @@ SKILL_20150317_002763	Enhanced the damage of [Zaibas] to Krivis' 3rd Circle stan
 SKILL_20150317_002764	Blessing: Enhance
 SKILL_20150317_002765	Increases the additional damage effect of [Blessing] per attribute level.
 SKILL_20150317_002766	Aspersion: Enhance 2
-SKILL_20150317_002767	Enhanced the damage of [Aspersion] to Priest's 2nd Circle standards.
+SKILL_20150317_002767	Enhanced the damage of [Aspersion] to Prêtre's 2nd Circle standards.
 SKILL_20150317_002768	Aspersion: Enhance 3
-SKILL_20150317_002769	Enhanced the damage of [Aspersion] to Priest 3rd Circle standards.
+SKILL_20150317_002769	Enhanced the damage of [Aspersion] to Prêtre 3rd Circle standards.
 SKILL_20150317_002770	Sacrament: Enhance
-SKILL_20150317_002771	Enhanced the Holy property attack increase effect of [Sacrament] to Priest's 2nd Circle standards.
+SKILL_20150317_002771	Enhanced the Holy property attack increase effect of [Sacrament] to Prêtre's 2nd Circle standards.
 SKILL_20150317_002772	Sacrament: Enhance 2
-SKILL_20150317_002773	Enhanced the Holy property attack increase effect of [Sacrament] to Priest's 3rd Circle standards.
+SKILL_20150317_002773	Enhanced the Holy property attack increase effect of [Sacrament] to Prêtre's 3rd Circle standards.
 SKILL_20150317_002774	Blessing: Enhance 2
-SKILL_20150317_002775	Enhanced the additional damage effect of [Blessing] to Priest's 2nd Circle standards.
+SKILL_20150317_002775	Enhanced the additional damage effect of [Blessing] to Prêtre's 2nd Circle standards.
 SKILL_20150317_002776	Blessing: Enhance 3
-SKILL_20150317_002777	Enhanced the additional damage effect of [Blessing] to Priest's 3rd Circle standards.
+SKILL_20150317_002777	Enhanced the additional damage effect of [Blessing] to Prêtre's 3rd Circle standards.
 SKILL_20150317_002778	Warcry: Enhance
 SKILL_20150317_002779	Increases the physical attack increase effect of [Warcry] per attribute level. (This attribute only applies after the enemy's defense is decreased.)
 SKILL_20150317_002780	Warcry : Enhance
-SKILL_20150317_002781	Enhanced the physical attack increase effect of [Warcry] to Barbarian's 2nd Circle standards. (This attribute only applies after the enemy's defense is decreased.)
+SKILL_20150317_002781	Enhanced the physical attack increase effect of [Warcry] to Barbare's 2nd Circle standards. (This attribute only applies after the enemy's defense is decreased.)
 SKILL_20150317_002782	Warcry : Enhance 2
-SKILL_20150317_002783	Enhanced the physical attack increase effect of [Warcry] to Barbarian's 3rd Circle standards. (This attribute only applies after the enemy's defense is decreased.)
+SKILL_20150317_002783	Enhanced the physical attack increase effect of [Warcry] to Barbare's 3rd Circle standards. (This attribute only applies after the enemy's defense is decreased.)
 SKILL_20150317_002784	Frenzy : Enhance
 SKILL_20150317_002785	Increases the physical attack increase effect of [Frenzy] per attribute level.
 SKILL_20150317_002786	Frenzy : Enhance 2
-SKILL_20150317_002787	Enhanced the physical attack increase effect of [Frenzy] to Barbarian's 2nd Circle standards.
+SKILL_20150317_002787	Enhanced the physical attack increase effect of [Frenzy] to Barbare's 2nd Circle standards.
 SKILL_20150317_002788	Frenzy : Enhance 3
-SKILL_20150317_002789	Enhanced the physical attack increase effect of [Frenzy] to Barbarian's 3rd Circle standards.
+SKILL_20150317_002789	Enhanced the physical attack increase effect of [Frenzy] to Barbare's 3rd Circle standards.
 SKILL_20150317_002790	Telekinesis : Enhance 2
-SKILL_20150317_002791	Enhanced the damage of [Telekinesis] to Psychokino's 2nd Circle standards.
+SKILL_20150317_002791	Enhanced the damage of [Telekinesis] to Télékinesiste's 2nd Circle standards.
 SKILL_20150317_002792	Telekinesis : Enhance 3
-SKILL_20150317_002793	Enhanced the damage of [Telekinesis] to Psychokino's 3rd Circle standards.
+SKILL_20150317_002793	Enhanced the damage of [Telekinesis] to Télékinesiste's 3rd Circle standards.
 SKILL_20150317_002794	Psychic Pressure : Enhance 2
-SKILL_20150317_002795	Enhanced the damage of [Psychic Pressure] to Psychokino's 2nd Circle standards.
+SKILL_20150317_002795	Enhanced the damage of [Psychic Pressure] to Télékinesiste's 2nd Circle standards.
 SKILL_20150317_002796	Psychic Pressure : Enhance 3
-SKILL_20150317_002797	Enhanced the damage of [Psychic Pressure] to Psychokino's 3rd Circle standards.
+SKILL_20150317_002797	Enhanced the damage of [Psychic Pressure] to Télékinesiste's 3rd Circle standards.
 SKILL_20150317_002798	Magnetic Force : Enhance
-SKILL_20150317_002799	Enhanced the damage of [Magnetic Force] to Psychokino's 2nd Circle standards.
+SKILL_20150317_002799	Enhanced the damage of [Magnetic Force] to Télékinesiste's 2nd Circle standards.
 SKILL_20150317_002800	Magnetic Force : Enhance 2
-SKILL_20150317_002801	Enhanced the damage of [Magnetic Force] to Psychokino's 3rd Circle standards.
+SKILL_20150317_002801	Enhanced the damage of [Magnetic Force] to Télékinesiste's 3rd Circle standards.
 SKILL_20150317_002802	Broom Trap : Enhance 2
-SKILL_20150317_002803	Enhanced the damage of [Broom Trap] to Sapper's 2nd Circle standards.
+SKILL_20150317_002803	Enhanced the damage of [Broom Trap] to Sapeur's 2nd Circle standards.
 SKILL_20150317_002804	Broom Trap : Enhance 3
-SKILL_20150317_002805	Enhanced the damage of [Broom Trap] to Sapper's 3rd Circle standards.
+SKILL_20150317_002805	Enhanced the damage of [Broom Trap] to Sapeur's 3rd Circle standards.
 SKILL_20150317_002806	Claymore : Enhance 2
-SKILL_20150317_002807	Enhanced the damage of [Claymore] to Sapper's 2nd Circle standards.
+SKILL_20150317_002807	Enhanced the damage of [Claymore] to Sapeur's 2nd Circle standards.
 SKILL_20150317_002808	Claymore : Enhance 3
-SKILL_20150317_002809	Enhanced the damage of [Claymore] to Sapper's 3rd Circle standards.
+SKILL_20150317_002809	Enhanced the damage of [Claymore] to Sapeur's 3rd Circle standards.
 SKILL_20150317_002810	Punji Stake : Enhance 2
-SKILL_20150317_002811	Enhanced the damage of [Punji Stake] to Sapper's 2nd Circle standards.
+SKILL_20150317_002811	Enhanced the damage of [Punji Stake] to Sapeur's 2nd Circle standards.
 SKILL_20150317_002812	Punji Stake : Enhance 3
-SKILL_20150317_002813	Enhanced the damage of [Punji Stake] to Sapper's 3rd Circle standards.
+SKILL_20150317_002813	Enhanced the damage of [Punji Stake] to Sapeur's 3rd Circle standards.
 SKILL_20150317_002814	Detonate Traps: Enhance 2
-SKILL_20150317_002815	Enhanced the damage of [Detonate Traps] to Sapper's 2nd Circle standards.
+SKILL_20150317_002815	Enhanced the damage of [Detonate Traps] to Sapeur's 2nd Circle standards.
 SKILL_20150317_002816	Detonate Traps: Enhance 3
-SKILL_20150317_002817	Enhanced the damage of [Detonate Traps] to Sapper's 3rd Circle standards.
+SKILL_20150317_002817	Enhanced the damage of [Detonate Traps] to Sapeur's 3rd Circle standards.
 SKILL_20150317_002818	Carve : Enhance 2
 SKILL_20150317_002819	Enhanced the damage of [Carve] to Dievdirbys' 2nd Circle standards.
 SKILL_20150317_002820	Carve : Enhance 3
@@ -2866,39 +2866,39 @@ SKILL_20150317_002865	Enhanced the damage of [Shield Push] to Rodelero's 3rd Cir
 SKILL_20150317_002866	Rush: Enhance
 SKILL_20150317_002867	Increases the damage of [Rush] per attribute level.
 SKILL_20150317_002868	Rush: Enhance 2
-SKILL_20150317_002869	Enhanced the damage of [Rush] to Cataphract's 2nd Circle standards.
+SKILL_20150317_002869	Enhanced the damage of [Rush] to Cataphractee's 2nd Circle standards.
 SKILL_20150317_002870	Rush: Enhance 3
-SKILL_20150317_002871	Enhanced the damage of [Rush] to Cataphract's 3rd Circle standards.
+SKILL_20150317_002871	Enhanced the damage of [Rush] to Cataphractee's 3rd Circle standards.
 SKILL_20150317_002872	Impaler: Enhance
 SKILL_20150317_002873	Increases the damage of [Impaler] per attribute level.
 SKILL_20150317_002874	Impaler: Enhance 2
-SKILL_20150317_002875	Enhanced the damage of [Impaler] to Cataphract's 2nd Circle standards.
+SKILL_20150317_002875	Enhanced the damage of [Impaler] to Cataphractee's 2nd Circle standards.
 SKILL_20150317_002876	Impaler: Enhance 3
-SKILL_20150317_002877	Enhanced the damage of [Impaler] to Cataphract's 3rd Circle standards.
+SKILL_20150317_002877	Enhanced the damage of [Impaler] to Cataphractee's 3rd Circle standards.
 SKILL_20150317_002878	Meteor: Enhance
 SKILL_20150317_002879	Increases the damage of [Meteor] per attribute level.
 SKILL_20150317_002880	Meteor: Enhance 2
-SKILL_20150317_002881	Enhanced the damage of [Meteor] to Elementalist's 2nd Circle standards.
+SKILL_20150317_002881	Enhanced the damage of [Meteor] to Elementaliste's 2nd Circle standards.
 SKILL_20150317_002882	Meteor: Enhance 3
-SKILL_20150317_002883	Enhanced the damage of [Meteor] to Elementalist's 3rd Circle standards. 
+SKILL_20150317_002883	Enhanced the damage of [Meteor] to Elementaliste's 3rd Circle standards. 
 SKILL_20150317_002884	Prominence: Enhance
 SKILL_20150317_002885	Increases the damage of [Prominence] per attribute level.
 SKILL_20150317_002886	Prominence: Enhance 2
-SKILL_20150317_002887	Enhanced the damage of [Prominence] to Elementalist's 2nd Circle standards.
+SKILL_20150317_002887	Enhanced the damage of [Prominence] to Elementaliste's 2nd Circle standards.
 SKILL_20150317_002888	Prominence: Enhance 3
-SKILL_20150317_002889	Enhanced the damage of [Prominence] to Elementalist's 3rd Circle standards. 
+SKILL_20150317_002889	Enhanced the damage of [Prominence] to Elementaliste's 3rd Circle standards. 
 SKILL_20150317_002890	Hail: Enhance
 SKILL_20150317_002891	Increases the damage of [Hail] per attribute level.
 SKILL_20150317_002892	Hail: Enhance 2
-SKILL_20150317_002893	Enhanced the damage of [Hail] to Elementalist's 2nd Circle standards.
+SKILL_20150317_002893	Enhanced the damage of [Hail] to Elementaliste's 2nd Circle standards.
 SKILL_20150317_002894	Hail: Enhance 3
-SKILL_20150317_002895	Enhanced the damage of [Hail] to Elementalist's 3rd Circle standards.
+SKILL_20150317_002895	Enhanced the damage of [Hail] to Elementaliste's 3rd Circle standards.
 SKILL_20150317_002896	Electrocute: Enhance
 SKILL_20150317_002897	Increases the damage of [Electrocute] per attribute level.
 SKILL_20150317_002898	Electrocute: Enhance 2
-SKILL_20150317_002899	Enhanced the damage of [Electrocute] to Elementalist's 2nd Circle standards.
+SKILL_20150317_002899	Enhanced the damage of [Electrocute] to Elementaliste's 2nd Circle standards.
 SKILL_20150317_002900	Electrocute: Enhance 3
-SKILL_20150317_002901	Enhanced the damage of [Electrocute] to Elementalist's 3rd Circle standards.
+SKILL_20150317_002901	Enhanced the damage of [Electrocute] to Elementaliste's 3rd Circle standards.
 SKILL_20150317_002902	Swell Right Arm: Enhance
 SKILL_20150317_002903	Increases the damage buff of [Swell Right Arm] per attribute level.
 SKILL_20150317_002904	Swell Right Arm: Enhance 2
@@ -2922,9 +2922,9 @@ SKILL_20150317_002921	Enhanced the damage of [Time Spring Arrow] to Ranger's 3rd
 SKILL_20150317_002922	Ballista: Enhance
 SKILL_20150317_002923	Increases the damage of [Ballista] per attribute level.
 SKILL_20150317_002924	Ballista: Enhance 2
-SKILL_20150317_002925	Enhanced the damage of [Ballista] to Sapper's 2nd Circle standards.
+SKILL_20150317_002925	Enhanced the damage of [Ballista] to Sapeur's 2nd Circle standards.
 SKILL_20150317_002926	Ballista: Enhance 3
-SKILL_20150317_002927	Enhanced the damage of [Ballista] to Sapper's 3rd Circle standards.
+SKILL_20150317_002927	Enhanced the damage of [Ballista] to Sapeur's 3rd Circle standards.
 SKILL_20150317_002928	Needle Blow: Enhance
 SKILL_20150317_002929	Increases the damage of [Needle Blow] per attribute level.
 SKILL_20150317_002930	Needle Blow: Enhance 2
@@ -2946,13 +2946,13 @@ SKILL_20150317_002945	Enhanced the damage of [Throw Gu Pot] to Wugushi's 3rd Cir
 SKILL_20150317_002946	Flu Flu: Enhance
 SKILL_20150317_002947	Increases the damage of [Flu Flu] per attribute level.
 SKILL_20150317_002948	Flu Flu: Enhance 2
-SKILL_20150317_002949	Enhanced the damage of [Flu Flu] to Scout's 2nd Circle standards.
+SKILL_20150317_002949	Enhanced the damage of [Flu Flu] to Eclaireur's 2nd Circle standards.
 SKILL_20150317_002950	Flu Flu: Enhance 3
-SKILL_20150317_002951	Enhanced the damage of [Flu Flu] to Scout's 3rd Circle standards.
+SKILL_20150317_002951	Enhanced the damage of [Flu Flu] to Eclaireur's 3rd Circle standards.
 SKILL_20150317_002952	Flare Shot: Enhance
 SKILL_20150317_002953	Increases the damage of [Flare Shot] per attribute level.
 SKILL_20150317_002954	Flare Shot: Enhance 2
-SKILL_20150317_002955	Enhanced the damage of [Flare Shot] to Scout's 2nd Circle standards.
+SKILL_20150317_002955	Enhanced the damage of [Flare Shot] to Eclaireur's 2nd Circle standards.
 SKILL_20150317_002956	Bwa Kayiman: Enhance
 SKILL_20150317_002957	Increases the damage of [Bwa Kayiman] per attribute level.
 SKILL_20150317_002958	Bwa Kayiman: Enhance
@@ -2986,35 +2986,35 @@ SKILL_20150317_002985	Enhanced the damage of [Smite] to Paladin's 3rd Circle sta
 SKILL_20150317_002986	Embowel: Enhance
 SKILL_20150317_002987	Increases the damage of [Embowel] per attribute level.
 SKILL_20150317_002988	Embowel: Enhance 2
-SKILL_20150317_002989	Enhanced the damage of [Embowel] to Barbarian's 2nd Circle standards.
+SKILL_20150317_002989	Enhanced the damage of [Embowel] to Barbare's 2nd Circle standards.
 SKILL_20150317_002990	Embowel: Enhance 3
-SKILL_20150317_002991	Enhanced the damage of [Embowel] to Barbarian's 3rd Circle standards.
+SKILL_20150317_002991	Enhanced the damage of [Embowel] to Barbare's 3rd Circle standards.
 SKILL_20150317_002992	Stomping Kick: Enhance
 SKILL_20150317_002993	Increases the damage of [Stomping Kick] per attribute level.
 SKILL_20150317_002994	Earth Wave: Enhance
 SKILL_20150317_002995	Increases the damage of [Earth Wave] increases per attribute level.
 SKILL_20150317_002996	Earth Wave: Enhance 2
-SKILL_20150317_002997	Enhanced the damage of [Earth Wave] to Cataphract's 2nd Circle standards.
+SKILL_20150317_002997	Enhanced the damage of [Earth Wave] to Cataphractee's 2nd Circle standards.
 SKILL_20150317_002998	Earth Wave: Enhance 3
-SKILL_20150317_002999	Enhanced the damage of [Earth Wave] to Cataphract's 3rd Circle standards.
+SKILL_20150317_002999	Enhanced the damage of [Earth Wave] to Cataphractee's 3rd Circle standards.
 SKILL_20150317_003000	Steed Charge: Enhance
 SKILL_20150317_003001	Increases the damage of [Steed Charge] per attribute level.
 SKILL_20150317_003002	Steed Charge: Enhance 2
-SKILL_20150317_003003	Enhanced the damage of [Steed Charge] to Cataphract's 2nd Circle standards.
+SKILL_20150317_003003	Enhanced the damage of [Steed Charge] to Cataphractee's 2nd Circle standards.
 SKILL_20150317_003004	Steed Charge: Enhance 3
-SKILL_20150317_003005	Enhanced the damage of [Steed Charge] to Cataphract's 3rd Circle standards.
+SKILL_20150317_003005	Enhanced the damage of [Steed Charge] to Cataphractee's 3rd Circle standards.
 SKILL_20150317_003006	Doom Spike: Enhance
 SKILL_20150317_003007	Increases the damage of [Doom Spike] per attribute level.
 SKILL_20150317_003008	Doom Spike: Enhance 2
-SKILL_20150317_003009	Enhanced the damage of [Doom Spike] to Cataphract's 2nd Circle standards.
+SKILL_20150317_003009	Enhanced the damage of [Doom Spike] to Cataphractee's 2nd Circle standards.
 SKILL_20150317_003010	Doom Spike: Enhance 2
-SKILL_20150317_003011	Enhanced the damage of [Doom Spike] to Cataphract's 3rd Circle standards.
+SKILL_20150317_003011	Enhanced the damage of [Doom Spike] to Cataphractee's 3rd Circle standards.
 SKILL_20150317_003012	Zombify: Large Zombie
 SKILL_20150317_003013	The chance of creating large zombies when zombifying large monsters increases by 1% per attribute level.
 SKILL_20150317_003014	Zombify: Wheelchair Zombie
 SKILL_20150317_003015	The chance of a wheelchair zombie appearing when creating zombies increases by 1% per attribute level.
 SKILL_20150317_003016	Flare Shot: Enhance 3
-SKILL_20150317_003017	Enhanced the damage of [Flare Shot] to Scout's 3rd Circle standards.
+SKILL_20150317_003017	Enhanced the damage of [Flare Shot] to Eclaireur's 3rd Circle standards.
 SKILL_20150317_003018	Astral Body Explosion: Enhance 2
 SKILL_20150317_003019	Enhanced the damage of [Astral Body Explosion] to Sadhu's 2nd Circle standards.
 SKILL_20150317_003020	Astral Body Explosion: Enhance 3
@@ -3093,19 +3093,19 @@ SKILL_20150323_003092	Increased evasion rate
 SKILL_20150323_003093	Equip virtual weapon
 SKILL_20150323_003094	Repair Armor
 SKILL_20150323_003095	Your companion growls fearfully. Nearby monsters may fall under Fear.
-SKILL_20150323_003096	Elementalist: Resistance
+SKILL_20150323_003096	Elementaliste: Resistance
 SKILL_20150323_003097	Carve World Tree: Pull
 SKILL_20150323_003098	Pull enemies within range of [Carve World Tree]
 SKILL_20150323_003099	Resist Elements: Resistance
 SKILL_20150323_003100	Increases the Fire, Ice and Lightning properties while decreasing the Poison and Earth properties when using [Resist Elements] by 5 per attribute level respectively. 
-SKILL_20150323_003101	Enhanced the damage of [Meteor] to Elementalist's 2nd Circle standards.
-SKILL_20150323_003102	Enhanced the damage of [Meteor] to Elementalist's 3rd Circle standards.
-SKILL_20150323_003103	Enhanced the damage of [Prominence] to Elementalist's 2nd Circle standards.
-SKILL_20150323_003104	Enhanced the damage of [Prominence] to Elementalist's 3rd Circle standards.
-SKILL_20150323_003105	Enhanced the damage of [Hail] to Elementalist's 2nd Circle standards.
-SKILL_20150323_003106	Enhanced the damage of [Hail] to Elementalist's 3rd Circle standards.
-SKILL_20150323_003107	Enhanced the damage of [Electrocute] to Elementalist's 2nd Circle standards.
-SKILL_20150323_003108	Enhanced the damage of [Electrocute] to Elementalist's 3rd Circle standards.
+SKILL_20150323_003101	Enhanced the damage of [Meteor] to Elementaliste's 2nd Circle standards.
+SKILL_20150323_003102	Enhanced the damage of [Meteor] to Elementaliste's 3rd Circle standards.
+SKILL_20150323_003103	Enhanced the damage of [Prominence] to Elementaliste's 2nd Circle standards.
+SKILL_20150323_003104	Enhanced the damage of [Prominence] to Elementaliste's 3rd Circle standards.
+SKILL_20150323_003105	Enhanced the damage of [Hail] to Elementaliste's 2nd Circle standards.
+SKILL_20150323_003106	Enhanced the damage of [Hail] to Elementaliste's 3rd Circle standards.
+SKILL_20150323_003107	Enhanced the damage of [Electrocute] to Elementaliste's 2nd Circle standards.
+SKILL_20150323_003108	Enhanced the damage of [Electrocute] to Elementaliste's 3rd Circle standards.
 SKILL_20150323_003109	Swell Left Arm: Enhance
 SKILL_20150323_003110	Increases the Damage of [Swell left Arm] Increase per Attribute level.
 SKILL_20150323_003111	Swell Left Arm: Enhance 2
@@ -3378,7 +3378,7 @@ SKILL_20150401_003377	When enemies are killed with [Revive], two monsters appear
 SKILL_20150401_003378	Pommel Beat: Enhance
 SKILL_20150401_003379	Damage of [Pommel Beat] Increase per Attribute level.
 SKILL_20150401_003380	Pommel Beat: Enhance 2
-SKILL_20150401_003381	Enhanced the damage of [Pommel Beat] to Swordsman's 3rd Circle standards.
+SKILL_20150401_003381	Enhanced the damage of [Pommel Beat] to Epéiste's 3rd Circle standards.
 SKILL_20150401_003382	Double Slash: Enhance
 SKILL_20150401_003383	Damage of [Double Slash] Increase per Attribute level.
 SKILL_20150401_003384	Butterfly: Enhance
@@ -3390,7 +3390,7 @@ SKILL_20150401_003389	Enhanced the damage of [Skull Swing] to Highlander's 3rd C
 SKILL_20150401_003390	Spear Throw: Enhance
 SKILL_20150401_003391	Damage of [Spear Throw] Increase per Attribute level.
 SKILL_20150401_003392	Stomping Kick: Enhance 2
-SKILL_20150401_003393	Enhanced the damage of [Stomping Kick] to Barbarian's 3rd Circle standards.
+SKILL_20150401_003393	Enhanced the damage of [Stomping Kick] to Barbare's 3rd Circle standards.
 SKILL_20150401_003394	Keel Hauling: Enhance
 SKILL_20150401_003395	Damage of [Keel Hauling] Increase per Attribute level.
 SKILL_20150401_003396	Cyclone: Enhance
@@ -3404,20 +3404,20 @@ SKILL_20150401_003403	Damage of [Gather Corpse] Increase per Attribute level.
 SKILL_20150401_003404	Flesh Cannon: Enhance
 SKILL_20150401_003405	Damage of [Flesh Canon] Increase per Attribute level.
 SKILL_20150401_003406	Flesh Cannon: Enhance 2
-SKILL_20150401_003407	Enhanced the damage of [Flesh Cannon] to Necromancer's 2nd Circle standards.
+SKILL_20150401_003407	Enhanced the damage of [Flesh Cannon] to Necromancien's 2nd Circle standards.
 SKILL_20150401_003408	Flesh Cannon: Enhance 3
-SKILL_20150401_003409	Enhanced the damage of [Flesh Cannon] to Necromancer's 3rd Circle standards.
+SKILL_20150401_003409	Enhanced the damage of [Flesh Cannon] to Necromancien's 3rd Circle standards.
 SKILL_20150401_003410	Flesh Hoop: Enhance
 SKILL_20150401_003411	Damage of [Flesh Hoop] Increase per Attribute level.
 SKILL_20150401_003412	Flesh Hoop: Enhance 2
-SKILL_20150401_003413	Enhanced the damage of [Flesh Hoop] to Necromancer's 3rd Circle standards.
+SKILL_20150401_003413	Enhanced the damage of [Flesh Hoop] to Necromancien's 3rd Circle standards.
 SKILL_20150401_003414	Flesh Hoop: Enhance 3
 SKILL_20150401_003415	Combustion: Enhance
 SKILL_20150401_003416	Damage of [Combustion] Increase per Attribute level.
 SKILL_20150401_003417	Combustion: Enhance 2
-SKILL_20150401_003418	Enhanced the damage of [Combustion] to Alchemist's 2nd Circle standards.
+SKILL_20150401_003418	Enhanced the damage of [Combustion] to Alchimiste's 2nd Circle standards.
 SKILL_20150401_003419	Combustion: Enhance 3
-SKILL_20150401_003420	Enhanced the damage of [Combustion] to Alchemist's 3rd Circle standards.
+SKILL_20150401_003420	Enhanced the damage of [Combustion] to Alchimiste's 3rd Circle standards.
 SKILL_20150401_003421	Knockback Shot: Enhance
 SKILL_20150401_003422	Damage of [Knockback Shot] Increase per Attribute level.
 SKILL_20150401_003423	Knockback Shot: Enhance 2
@@ -3427,7 +3427,7 @@ SKILL_20150401_003426	Damage of [Dual Shot] Increase per Attribute level.
 SKILL_20150401_003427	Break Pavise: Enhance
 SKILL_20150401_003428	Damage of [Break Pavise] Increase per Attribute level.
 SKILL_20150401_003429	Break Pavise: Enhance 2
-SKILL_20150401_003430	Damage of [Break Pavise] is enhanced to Quarrel Shooter Circle 3.
+SKILL_20150401_003430	Damage of [Break Pavise] is enhanced to Arbalétrier Circle 3.
 SKILL_20150401_003431	Crossbow Mosing Shot: Enhance
 SKILL_20150401_003432	Damage of [Crossbow Moving Shot] Increase per Attribute level.
 SKILL_20150401_003433	Spike Shooter: Enhance
@@ -3435,23 +3435,23 @@ SKILL_20150401_003434	Damage of [Spike Shooter] Increase per Attribute level.
 SKILL_20150401_003435	Collar Bomb: Enhance
 SKILL_20150401_003436	Damage of [Collar Bomb] Increase per Attribute level.
 SKILL_20150401_003437	Collar Bomb: Enhance 2
-SKILL_20150401_003438	Enhanced the damage of [Collar Bomb] to Sapper's 3rd Circle standards.
+SKILL_20150401_003438	Enhanced the damage of [Collar Bomb] to Sapeur's 3rd Circle standards.
 SKILL_20150401_003439	Vendetta: Enhance
 SKILL_20150401_003440	Damage of [Vendetta] Increase per Attribute level.
 SKILL_20150401_003441	Vendetta: Enhance 2
-SKILL_20150401_003442	Enhanced the damage of [Vendetta] to Rogue's 3rd Circle standards.
+SKILL_20150401_003442	Enhanced the damage of [Vendetta] to Assassin's 3rd Circle standards.
 SKILL_20150401_003443	Lachrymator: Enhance
 SKILL_20150401_003444	Damage of [Lachrymator] Increase per Attribute level.
 SKILL_20150401_003445	Lachrymator: Enhance 2
-SKILL_20150401_003446	Enhanced the damage of [Lachrymator] to Rogue's 2nd Circle standards.
+SKILL_20150401_003446	Enhanced the damage of [Lachrymator] to Assassin's 2nd Circle standards.
 SKILL_20150401_003447	Lachrymator: Enhance 3
-SKILL_20150401_003448	Enhanced the damage of [Lachrymator] to Rogue's 3rd Circle standards.
+SKILL_20150401_003448	Enhanced the damage of [Lachrymator] to Assassin's 3rd Circle standards.
 SKILL_20150401_003449	Backstab: Enhance
 SKILL_20150401_003450	Damage of [Baskstep] Increase per Attribute level.
 SKILL_20150401_003451	Backstab: Enhance 2
-SKILL_20150401_003452	Enhanced the damage of [Backstab] to Rogue's 2nd Circle standards.
+SKILL_20150401_003452	Enhanced the damage of [Backstab] to Assassin's 2nd Circle standards.
 SKILL_20150401_003453	Backstab: Enhance 3
-SKILL_20150401_003454	Enhanced the damage of [Backstab] to Rogue's 3rd Circle standards.
+SKILL_20150401_003454	Enhanced the damage of [Backstab] to Assassin's 3rd Circle standards.
 SKILL_20150401_003455	Broadhead: Enhance
 SKILL_20150401_003456	Damage of [Broadhead] Increase per Attribute level.
 SKILL_20150401_003457	Broadhead: Enhance 2
@@ -3497,37 +3497,37 @@ SKILL_20150401_003496	Increases the damage of [Iron Skin] per attribute level.
 SKILL_20150401_003497	Double Punch: Enhance
 SKILL_20150401_003498	Damage of [Double Punch] Increase per Attribute level.
 SKILL_20150401_003499	Double Punch: Enhance 2
-SKILL_20150401_003500	Enhanced the damage of [Double Punch] to Monk's 2nd Circle standards.
+SKILL_20150401_003500	Enhanced the damage of [Double Punch] to Moine's 2nd Circle standards.
 SKILL_20150401_003501	Double Punch: Enhance 3
-SKILL_20150401_003502	Enhanced the damage of [Double Punch] to Monk's 3rd Circle standards.
+SKILL_20150401_003502	Enhanced the damage of [Double Punch] to Moine's 3rd Circle standards.
 SKILL_20150401_003503	Palm Strike: Enhance
 SKILL_20150401_003504	Damage of [Palm Strike] Increase per Attribute level.
 SKILL_20150401_003505	Palm Strike: Enhance 2
-SKILL_20150401_003506	Enhanced the damage of [Palm Strike] to Monk's 2nd Circle standards.
+SKILL_20150401_003506	Enhanced the damage of [Palm Strike] to Moine's 2nd Circle standards.
 SKILL_20150401_003507	Palm Strike: Enhance 3
-SKILL_20150401_003508	Enhanced the damage of [Palm Strike] to Monk's 3rd Circle standards.
+SKILL_20150401_003508	Enhanced the damage of [Palm Strike] to Moine's 3rd Circle standards.
 SKILL_20150401_003509	Hand Knife: Enhance
 SKILL_20150401_003510	Damage of [Hand Knife] Increase per Attribute level.
 SKILL_20150401_003511	Hand Knife: Enhance 2
-SKILL_20150401_003512	Enhanced the damage of [Hand Knife] to Monk's 2nd Circle standards.
+SKILL_20150401_003512	Enhanced the damage of [Hand Knife] to Moine's 2nd Circle standards.
 SKILL_20150401_003513	Hand Knife: Enhance 3
-SKILL_20150401_003514	Enhanced the damage of [Hand Knife] to Monk's 3rd Circle standards.
+SKILL_20150401_003514	Enhanced the damage of [Hand Knife] to Moine's 3rd Circle standards.
 SKILL_20150401_003515	One Inch Punch: Enhance
 SKILL_20150401_003516	Damage of [1 inch Punch] Increase per Attribute level.
 SKILL_20150401_003517	One Inch Punch: Enhance 2
-SKILL_20150401_003518	Enhanced the damage of [One Inch Punch] to Monk's 3rd Circle standards.
+SKILL_20150401_003518	Enhanced the damage of [One Inch Punch] to Moine's 3rd Circle standards.
 SKILL_20150401_003519	Energy Blast: Enhance
 SKILL_20150401_003520	Damage of [Energy Blast] Increase per Attribute level.
 SKILL_20150401_003521	God Finger Flick: Enhance
 SKILL_20150401_003522	Damage of [God Finger] Increase per Attribute level.
 SKILL_20150401_003523	God Finger Flick: Enhance 2
-SKILL_20150401_003524	Enhanced the damage of [God Finger Flick] to Monk's 3rd Circle standards.
+SKILL_20150401_003524	Enhanced the damage of [God Finger Flick] to Moine's 3rd Circle standards.
 SKILL_20150401_003525	Carnivory: Enhance
 SKILL_20150401_003526	Damage of [Carnovory] Increase per Attribute level.
 SKILL_20150401_003527	Carnivory: Enhance 2
-SKILL_20150401_003528	Enhanced the damage of [Carnivory] to Druid's 2nd Circle standards.
+SKILL_20150401_003528	Enhanced the damage of [Carnivory] to Druide's 2nd Circle standards.
 SKILL_20150401_003529	Carnivory: Enhance 3
-SKILL_20150401_003530	Enhanced the damage of [Carnivory] to Druid's 3rd Circle standards.
+SKILL_20150401_003530	Enhanced the damage of [Carnivory] to Druide's 3rd Circle standards.
 SKILL_20150401_003531	Use Pistol
 SKILL_20150401_003532	Can use [Pistol] weapons
 SKILL_20150406_003533	Poisonous Arrow
@@ -3840,7 +3840,7 @@ SKILL_20150414_003839	Temporarily grants an additional Holy property attack to y
 SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates an exorcism circle that damages enemies inside, then deals continuous damage.
 SKILL_20150414_003841	Curse an enemy to decrease its magic defense and prevent recovery.
 SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Controls an enemy afflicted with a curse and inflicts damage from afar. Bonus damage is dealt on the 3rd attack.
-SKILL_20150414_003843	Use a monkey skull to lure zombies to the desired location.
+SKILL_20150414_003843	Use a Moineey skull to lure zombies to the desired location.
 SKILL_20150414_003844	Create magic circle that turns enemies killed into zombies.
 SKILL_20150414_003845	Throw a talisman to an ally that temporarily suppresses pain. The ally is invulnerable to any damage when the talisman is active, but receives the accumulated damage at once when the effect ends.
 SKILL_20150414_003846	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Order zombies to celebrate. Zombies dance around target area and enemies touching the zombies receive damage.
@@ -3955,7 +3955,7 @@ SKILL_20150414_003954	Damage of [Twin Arrow] increase per attribute level.
 SKILL_20150414_003955	Teardown: Enhance
 SKILL_20150414_003956	Damage of [Teardown] increase per attribute level.
 SKILL_20150414_003957	Teardown: Enhance 2
-SKILL_20150414_003958	Enhanced the damage of [Teardown] to Quarrel Shooter's 3rd Circle standards.
+SKILL_20150414_003958	Enhanced the damage of [Teardown] to Arbalétrier's 3rd Circle standards.
 SKILL_20150414_003959	Running Shot: Enhance
 SKILL_20150414_003960	Increases the damage of [Running Shot] per attribute level.
 SKILL_20150414_003961	Lachrymator: Additional Damage
@@ -3983,7 +3983,7 @@ SKILL_20150414_003982	Summon Familar: Enhance
 SKILL_20150414_003983	Damage of Spirit summoned by [Summon Familiar Spirit] increases per attribute level.
 SKILL_20150414_003984	Summon Familar: Splash
 SKILL_20150414_003985	When summoned familiar spirit explodes itself, there 1% chance per attribute level for it to damage nearby enemies.
-SKILL_20150414_003986	Sorcerer: SP Recovery
+SKILL_20150414_003986	Sorcier: SP Recovery
 SKILL_20150414_003987	Character's SP recovery increase by 1 per attribute level.
 SKILL_20150414_003988	Flesh Canon: Decompose
 SKILL_20150414_003989	There is a chance of enemy falling under decompose status for 30 seconds when attacked with [Flesh Canon]. Chance increases by 5% per attribute level.
@@ -4032,7 +4032,7 @@ SKILL_20150428_004031	Attack: +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRati
 SKILL_20150428_004032	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Swing an enemy around, using centrifugal force to throw it away.
 SKILL_20150428_004033	Attack: #{SkillAtkAdd}#{nl}Rotates 9 times{nl}Distance Thrown: 150
 SKILL_20150428_004034	Maximum Targets: #{CaptionRatio}#{nl}Duration: 10 seconds
-SKILL_20150428_004035	Pin down a pirate flag, boosting the abilities of a pirate. Defeat enemies continuously near the flag to trigger a combo. (only triggered when party leader is the Corsair)
+SKILL_20150428_004035	Pin down a pirate flag, boosting the abilities of a pirate. Defeat enemies continuously near the flag to trigger a combo. (only triggered when party leader is the Corsairee)
 SKILL_20150428_004036	Unlocks low-leveled treasure chests with a key.
 SKILL_20150428_004037	Key Lv.: +#{CaptionRatio}#
 SKILL_20150428_004038	Double Weapon Assault
@@ -4428,8 +4428,8 @@ SKILL_20150714_004427	Subzero Shield: Duration
 SKILL_20150714_004428	Increases the duration of freeze that will be applied from [Subzero Shield] by 1 second per attribute level.
 SKILL_20150714_004429	Ice Blast: Additional Damage
 SKILL_20150714_004430	Increases the damage of [Ice Blast] by 10 per attribute level when attacking Leather armor-type enemies.
-SKILL_20150714_004431	Cryomancer: Freeze Speciality
-SKILL_20150714_004432	Enemies frozen by a Cryomancer will receive 10% additional damage from Lightning property attacks per attribute level.
+SKILL_20150714_004431	Cryomancien: Freeze Speciality
+SKILL_20150714_004432	Enemies frozen by a Cryomancien will receive 10% additional damage from Lightning property attacks per attribute level.
 SKILL_20150714_004433	Increases the damage dealt on an enemy with [Telekinesis] by 1% per attribute level.
 SKILL_20150714_004434	Increases the damage dealt on an enemy with [Psychic Pressure] by 1% per attribute level.
 SKILL_20150714_004435	Increases the damage dealt on an enemy with [Magnetic Force] by 1% per attribute level.
@@ -4696,11 +4696,11 @@ SKILL_20150714_004695	Pardoner: Donation
 SKILL_20150714_004696	Donation is possible through the Pardoner Master. The donation amount varies slightly each time.
 SKILL_20150714_004697	Increases the damage dealt on an enemy with [Carnivory] by 1% per attribute level.
 SKILL_20150714_004698	Increases the duration of [Chortasmata] by 1 second per attribute level.
-SKILL_20150714_004699	Druid: Small-type Speciality
+SKILL_20150714_004699	Druide: Small-type Speciality
 SKILL_20150714_004700	Increases the evasion of the transformed small-type monster by [Shape Shifting] or [Transform] by 20% per attribute level.
-SKILL_20150714_004701	Druid: Medium-type Speciality
+SKILL_20150714_004701	Druide: Medium-type Speciality
 SKILL_20150714_004702	Increases the attack to small, medium and large-type targets of the transformed medium-type monster by [Shape Shifting] or [Transform] by 22 per attribute level.
-SKILL_20150714_004703	Druid: Large-type Speciality
+SKILL_20150714_004703	Druide: Large-type Speciality
 SKILL_20150714_004704	Increases the maximum HP of the transformed large-type monster by [Shape Shifting] or [Transform] by 15% per attribute level.
 SKILL_20150714_004705	Duration of [Forecast] will increase by 1 sec per Attribute level.
 SKILL_20150714_004706	Change: Winning
@@ -4856,12 +4856,12 @@ SKILL_20150724_004855	Lv3 Warcry required
 SKILL_20150724_004856	Lv2 Zombify required
 SKILL_20150724_004857	Lv3 Zombify required
 SKILL_20150724_004858	Lv3 Mackangdel required
-SKILL_20150724_004859	Cataphract 2nd Circle required
-SKILL_20150724_004860	Cataphract 3rd Circle required
-SKILL_20150724_004861	Chronomancer 2nd Circle required
+SKILL_20150724_004859	Cataphractee 2nd Circle required
+SKILL_20150724_004860	Cataphractee 3rd Circle required
+SKILL_20150724_004861	Chronomancien 2nd Circle required
 SKILL_20150724_004862	Lv3 Deprotected Zone required
-SKILL_20150724_004863	Pyromancer 1st Circle required
-SKILL_20150724_004864	Cryomancer 1st Circle required
+SKILL_20150724_004863	Pyromancien 1st Circle required
+SKILL_20150724_004864	Cryomancien 1st Circle required
 SKILL_20150724_004865	Lv3 Hovering required
 SKILL_20150724_004866	Lv3 Ice Wall required
 SKILL_20150724_004867	Lv3 Cartar Stroke required
@@ -4869,7 +4869,7 @@ SKILL_20150724_004868	Lv3 Cross Guard required
 SKILL_20150724_004869	Highlander 2nd Circle required
 SKILL_20150724_004870	Highlander 3rd Circle required
 SKILL_20150724_004871	Lv3 Finestra required
-SKILL_20150724_004872	Hunter 2nd Circle required
+SKILL_20150724_004872	Chasseur 2nd Circle required
 SKILL_20150724_004873	Lv3 Aukuras required
 SKILL_20150724_004874	Lv3 Hangman's Knot required
 SKILL_20150724_004875	Linker 2nd Circle required
@@ -4881,16 +4881,16 @@ SKILL_20150724_004880	Pardoner 2nd Circle required
 SKILL_20150724_004881	Lv3 High Guard required
 SKILL_20150724_004882	Lv6 Umbo Blow required
 SKILL_20150724_004883	Lv6 Rim Blow required
-SKILL_20150724_004884	Priest 2nd Circle & Lv2 Resurrection required
-SKILL_20150724_004885	Psychokino 2nd Circle required
-SKILL_20150724_004886	Psychokino 3rd Circle required
+SKILL_20150724_004884	Prêtre 2nd Circle & Lv2 Resurrection required
+SKILL_20150724_004885	Télékinesiste 2nd Circle required
+SKILL_20150724_004886	Télékinesiste 3rd Circle required
 SKILL_20150724_004887	Lv3 Lachrymator required
 SKILL_20150724_004888	Lv3 Vashita Siddhi required
 SKILL_20150724_004889	Lv3 Summon Familiar required
-SKILL_20150724_004890	Sorcerer 2nd Circle required
+SKILL_20150724_004890	Sorcier 2nd Circle required
 SKILL_20150724_004891	Lv3 Weapon Maintenance required
 SKILL_20150724_004892	Lv3 Armor Maintenance required
-SKILL_20150724_004893	Squire 2nd Circle required
+SKILL_20150724_004893	Ecuyer 2nd Circle required
 SKILL_20150724_004894	Lv3 Swell Right Arm required
 SKILL_20150724_004895	Lv2 Shrink Body required
 SKILL_20150724_004896	Lv2 Swell Body required
@@ -4899,8 +4899,8 @@ SKILL_20150724_004898	Lv3 Bash required
 SKILL_20150724_004899	Lv3 Gung Ho required
 SKILL_20150724_004900	Lv3 Lethargy required
 SKILL_20150724_004901	Lv3 Reflect Shield required
-SKILL_20150724_004902	Wizard 2nd Circle required
-SKILL_20150724_004903	Wizard 3rd Circle required
+SKILL_20150724_004902	Magicien 2nd Circle required
+SKILL_20150724_004903	Magicien 3rd Circle required
 SKILL_20150729_004904	[Cafrisun] Physical/Strike/No Property
 SKILL_20150729_004905	Increase HP, SP restoration
 SKILL_20150729_004906	Restore HP +100{nl}Restore SP +100{nl}Duration -5 sec
@@ -5287,7 +5287,7 @@ SKILL_20151001_005286	Increases the movement speed of your companion from [Prais
 SKILL_20151001_005287	Split Arrow: Enhance
 SKILL_20151001_005288	Increases the damage dealt on an enemy with [Split Arrow] by 1% per attribute level.
 SKILL_20151001_005289	Deals damage equal to 100% magic attack to nearby Devil-type monsters when using [Divine Might].
-SKILL_20151001_005290	Corsair 2nd Circle required
+SKILL_20151001_005290	Corsairee 2nd Circle required
 SKILL_20151001_005291	Lv. 2 Create Shoggoth required
 SKILL_20151016_005292	Critical Chance: +#{CaptionRatio}#{nl}Block: +#{SkillFactor}#% {nl}Evasion: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20151016_005293	Spear Lunge
@@ -5487,11 +5487,11 @@ SKILL_20151022_005486	Resist Elements: Enhance
 SKILL_20151022_005487	Increases the property resistance of [Resist Elements] by 1 per attribute level.
 SKILL_20151022_005488	Increase Magic Defense: Duration
 SKILL_20151022_005489	Increases the duration of [Increase Magic Defense] by 1 second per attribute level.
-SKILL_20151022_005490	Druid: Animal-type Speciality
+SKILL_20151022_005490	Druide: Animal-type Speciality
 SKILL_20151022_005491	Increases the critical rate of the transformed animal-type monster via [Shape Shifting] or [Transform] by 10% per attribute level.
-SKILL_20151022_005492	Druid: Plant-type Speciality
+SKILL_20151022_005492	Druide: Plant-type Speciality
 SKILL_20151022_005493	Increases the HP recovery and SP recovery of the transformed plant-type monster via [Shape Shifting] or [Transform] by 10% per attribute level.
-SKILL_20151022_005494	Druid: Insect-type Speciality
+SKILL_20151022_005494	Druide: Insect-type Speciality
 SKILL_20151022_005495	Increases the defense and magic defense of the transformed insect-type monster via [Shape Shifting] or [Transform] by 8% per attribute level.
 SKILL_20151022_005496	Resetting: Decreased Cooldown
 SKILL_20151022_005497	Decreases the cooldown of [Resetting] by 30 seconds.
@@ -5744,7 +5744,7 @@ SKILL_20151224_005743	Increases attack equal to [Skill Level+1]x[Number of Weapo
 SKILL_20151224_005744	Penalty Reduction
 SKILL_20151224_005745	Reduces the penalty from incapable of combat.
 SKILL_20151224_005746	Equipment Durability Penalty: -#{CaptionRatio}#%{nl}Consumed Silver Penalty: -#{CaptionRatio2}#%{nl}Consumed Gem Penalty: -#{CaptionTime}#%
-SKILL_20151224_005747	Place a flag that raises the combat abilities of the pirate crew. A combo is activated if multiple enemies is defeated around the Jolly Roger. Attacking enemies around the Jolly Roger allows you to pillage items at a chance based on your Jolly Roger level. (Combo is only activated if the party leader is a Corsair.)
+SKILL_20151224_005747	Place a flag that raises the combat abilities of the pirate crew. A combo is activated if multiple enemies is defeated around the Jolly Roger. Attacking enemies around the Jolly Roger allows you to pillage items at a chance based on your Jolly Roger level. (Combo is only activated if the party leader is a Corsairee.)
 SKILL_20151224_005748	Pistol Shot
 SKILL_20151224_005749	{#DD5500}{ol}[Missile]{/}{/}{nl}Fires continuous shots with a pistol to damage multiple enemies ahead.
 SKILL_20151224_005750	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash enemies with a powerful swing to damage the enemy.
@@ -5873,7 +5873,7 @@ SKILL_20151224_005872	Applies #{CaptionRatio}# times{nl}Duration: 60 seconds
 SKILL_20151224_005873	HP Recovery: +#{CaptionRatio}#{nl}HP Recovery Time: -#{CaptionRatio2}# seconds{nl}Torch Duration: #{CaptionTime}# seconds
 SKILL_20151224_005874	Increases the number of beneficial effects for you and your party members.
 SKILL_20151224_005875	Maximum Count: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
-SKILL_20151224_005876	Lure zombies by using the skull of a monkey to attack enemies for a period of time.
+SKILL_20151224_005876	Lure zombies by using the skull of a Moineey to attack enemies for a period of time.
 SKILL_20151224_005877	Creates a magic circle that raises a dead enemy as a zombie. The HP of the raised zombie is based on the caster's SPR.
 SKILL_20151224_005878	STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds{nl}Glyph Duration: 15 seconds
 SKILL_20151224_005879	Attack: 200% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Targets: #{CaptionRatio2}#
@@ -5993,7 +5993,7 @@ SKILL_20151224_005992	Reduced Stamina
 SKILL_20151224_005993	Cripple
 SKILL_20151224_005994	Effigy bonus1
 SKILL_20151224_005995	Applies additional damage of Effigy on the second attack
-SKILL_20151224_005996	Increases Holy Property attack when used by Cleric-type characters
+SKILL_20151224_005996	Increases Holy Property attack when used by Clerc-type characters
 SKILL_20151224_005997	5% increased EXP rate from Instanced Dungeon parties
 SKILL_20151224_005998	5% increased EXP rate from automatic Instanced Dungeon matching
 SKILL_20151224_005999	Token Benefits: Movement Speed Increase
@@ -6049,11 +6049,11 @@ SKILL_20151224_006048	Serpentine: Enhance
 SKILL_20151224_006049	Increases the damage dealt on an enemy with [Serpentine] by 1% per attribute level.
 SKILL_20151224_006050	Serpentine: Bleeding
 SKILL_20151224_006051	Enemies hit by [Serpentine] have a 2% chance per attribute level to become afflicted with [Bleeding] for 8 seconds. Bleeding damage is proportional to the character's physical attack.
-SKILL_20151224_006052	Two-handed Spear Mastery: Big Game Hunter
+SKILL_20151224_006052	Two-handed Spear Mastery: Big Game Chasseur
 SKILL_20151224_006053	Increases the damage dealt on large enemies while using a [Two-handed Spear]. Increases by 4% and 2% per attribute level against large enemies and boss monsters, respectively.
-SKILL_20151224_006054	Enhanced the damage of [Energy Bolt] to Wizard's 2nd Circle standards.
-SKILL_20151224_006055	Enhanced the damage of [Energy Bolt] to Wizard's 3rd Circle standards.
-SKILL_20151224_006056	Enhanced the damage of [Earthquake] to Wizard's 3rd Circle standards.
+SKILL_20151224_006054	Enhanced the damage of [Energy Bolt] to Magicien's 2nd Circle standards.
+SKILL_20151224_006055	Enhanced the damage of [Energy Bolt] to Magicien's 3rd Circle standards.
+SKILL_20151224_006056	Enhanced the damage of [Earthquake] to Magicien's 3rd Circle standards.
 SKILL_20151224_006057	Deals additional damage equal to 40% magic attack per attribute level when attacking an enemy under [Sleep] with [Energy Bolt].
 SKILL_20151224_006058	Enemies affected by [Lethargy] receive 20% additional damage per attribute level with [Strike] attacks.
 SKILL_20151224_006059	Increases magic damage by 10% per attribute level while [Quick Cast] is active.
@@ -6126,29 +6126,29 @@ SKILL_20151224_006125	Chaplain: Motivation
 SKILL_20151224_006126	Increases the block penetration on the attack that hits an enemy by 15% per attribute level while [Last Rites] and [Revive] are in effect.
 SKILL_20151224_006127	Increases Pierce damage of allies within the range of [Barrier] by 10% per level.
 SKILL_20151224_006128	Increases the maximum amount of magic circles [Detonate Traps] can activate from by 1 per skill level.
-SKILL_20151224_006129	Alchemist 1st Circle required
+SKILL_20151224_006129	Alchimiste 1st Circle required
 SKILL_20151224_006130	Archer 1st Circle required
-SKILL_20151224_006131	Barbarian 1st Circle required
+SKILL_20151224_006131	Barbare 1st Circle required
 SKILL_20151224_006132	Bokor 1st Circle required
 SKILL_20151224_006133	Cannoneer 1st Circle required
-SKILL_20151224_006134	Cataphract 1st Circle required
+SKILL_20151224_006134	Cataphractee 1st Circle required
 SKILL_20151224_006135	Centurion 1st Circle required
 SKILL_20151224_006136	Chaplain 1st Circle required
-SKILL_20151224_006137	Chronomancer 1st Circle required
-SKILL_20151224_006138	Chronomancer 3rd Circle required
-SKILL_20151224_006139	Cleric 1st Circle required
-SKILL_20151224_006140	Corsair 1st Circle required
-SKILL_20151224_006141	Corsair 3rd Circle required
+SKILL_20151224_006137	Chronomancien 1st Circle required
+SKILL_20151224_006138	Chronomancien 3rd Circle required
+SKILL_20151224_006139	Clerc 1st Circle required
+SKILL_20151224_006140	Corsairee 1st Circle required
+SKILL_20151224_006141	Corsairee 3rd Circle required
 SKILL_20151224_006142	Dievdirbys 1st Circle required
 SKILL_20151224_006143	Doppelsoeldner 1st Circle required
 SKILL_20151224_006144	Lv. 3 Cyclone required
 SKILL_20151224_006145	Doppelsoeldner 2nd Circle required
 SKILL_20151224_006146	Dragoon 1st Circle required
 SKILL_20151224_006147	Lv. 5 Gae Bulg required
-SKILL_20151224_006148	Druid 1st Circle required
-SKILL_20151224_006149	Elementalist 1st Circle required
-SKILL_20151224_006150	Falconer 1st Circle required
-SKILL_20151224_006151	Falconer 2nd Circle required
+SKILL_20151224_006148	Druide 1st Circle required
+SKILL_20151224_006149	Elementaliste 1st Circle required
+SKILL_20151224_006150	Fauconnier 1st Circle required
+SKILL_20151224_006151	Fauconnier 2nd Circle required
 SKILL_20151224_006152	Lv. 1 Blood Bath & Lv. 1 Blood Sucking required
 SKILL_20151224_006153	Featherfoot 1st Circle required
 SKILL_20151224_006154	Lv. 3 Blood Sucking required
@@ -6157,40 +6157,40 @@ SKILL_20151224_006156	Fencer 2nd Circle required
 SKILL_20151224_006157	Fletcher 1st Circle required
 SKILL_20151224_006158	Highlander 1st Circle required
 SKILL_20151224_006159	Hoplite 1st Circle required
-SKILL_20151224_006160	Hunter 1st Circle required
+SKILL_20151224_006160	Chasseur 1st Circle required
 SKILL_20151224_006161	Kabbalist 1st Circle required
 SKILL_20151224_006162	Krivis 1st Circle required
 SKILL_20151224_006163	Linker 1st Circle required
-SKILL_20151224_006164	Monk 1st Circle required
+SKILL_20151224_006164	Moine 1st Circle required
 SKILL_20151224_006165	Musketeer 1st Circle required
-SKILL_20151224_006166	Necromancer 1st Circle required
+SKILL_20151224_006166	Necromancien 1st Circle required
 SKILL_20151224_006167	Oracle 1st Circle required
 SKILL_20151224_006168	Oracle 2nd Circle required
 SKILL_20151224_006169	Paladin 1st Circle required
 SKILL_20151224_006170	Pardoner 1st Circle required
-SKILL_20151224_006171	Peltasta 1st Circle required
+SKILL_20151224_006171	Peltaste 1st Circle required
 SKILL_20151224_006172	Plague Doctor 1st Circle required
-SKILL_20151224_006173	Priest 1st Circle required
-SKILL_20151224_006174	Psychokino 1st Circle required
-SKILL_20151224_006175	Quarrel Shooter 1st Circle required
+SKILL_20151224_006173	Prêtre 1st Circle required
+SKILL_20151224_006174	Télékinesiste 1st Circle required
+SKILL_20151224_006175	Arbalétrier 1st Circle required
 SKILL_20151224_006176	Ranger 1st Circle required
 SKILL_20151224_006177	Rodelero 1st Circle required
-SKILL_20151224_006178	Rogue 1st Circle required
+SKILL_20151224_006178	Assassin 1st Circle required
 SKILL_20151224_006179	Sadhu 1st Circle required
-SKILL_20151224_006180	Sapper 1st Circle required
+SKILL_20151224_006180	Sapeur 1st Circle required
 SKILL_20151224_006181	Schwarzer Reiter 1st Circle required
 SKILL_20151224_006182	Schwarzer Reiter 2nd Circle required
-SKILL_20151224_006183	Scout 1st Circle required
+SKILL_20151224_006183	Eclaireur 1st Circle required
 SKILL_20151224_006184	Shinobi 1st Circle required
 SKILL_20151224_006185	Lv. 2 Bunshin no Jutsu required
-SKILL_20151224_006186	Sorcerer 1st Circle required
-SKILL_20151224_006187	Sorcerer 3rd Circle required
-SKILL_20151224_006188	Squire 1st Circle required
+SKILL_20151224_006186	Sorcier 1st Circle required
+SKILL_20151224_006187	Sorcier 3rd Circle required
+SKILL_20151224_006188	Ecuyer 1st Circle required
 SKILL_20151224_006189	Thaumaturge 1st Circle required
 SKILL_20151224_006190	Warlock 1st Circle required
 SKILL_20151224_006191	Lv. 5 Invocation required
-SKILL_20151224_006192	Swordsman 1st Circle required
-SKILL_20151224_006193	Wizard 1st Circle required
+SKILL_20151224_006192	Epéiste 1st Circle required
+SKILL_20151224_006193	Magicien 1st Circle required
 SKILL_20151224_006194	Wugushi 1st Circle required
 SKILL_20160224_006195	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack with your shield. Damaged enemies will have their stats temporarily scrambled.
 SKILL_20160224_006196	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflict damage and put the enemy into a state of shock by making a big slash with all your might.
@@ -6322,7 +6322,7 @@ SKILL_20160224_006321	Exorcise: Duration
 SKILL_20160224_006322	Increases the duration of [Exorcise]'s magic circle by 1 second per attribute level.
 SKILL_20160224_006323	Class Rank 5 required
 SKILL_20160224_006324	Rune Caster 1st Circle required
-SKILL_20160224_006325	Wizard 1st Circle required
+SKILL_20160224_006325	Magicien 1st Circle required
 SKILL_20160310_006326	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Targets: #{CaptionRatio}#{nl}Consumes #{CaptionRatio2}#% SP per second
 SKILL_20160310_006327	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Targets: #{CaptionRatio}#{nl}Consumes 2% SP per second{nl}Maximum Duration: 10 seconds
 SKILL_20160310_006328	Set up an upright shield to protect yourself from enemy attacks. Enemies without a target will attack the pavise instead.
@@ -6416,10 +6416,10 @@ SKILL_20160718_006415	Palm Strike: Remove Knockdown
 SKILL_20160718_006416	[Palm Strike] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
 SKILL_20160718_006417	Hand Knife: Remove Knockdown
 SKILL_20160718_006418	[Hand Knife] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
-SKILL_20160718_006419	Peltasta 2nd Circle required
+SKILL_20160718_006419	Peltaste 2nd Circle required
 SKILL_20160718_006420	Lv6 Umbo Blow required
 SKILL_20160718_006421	Lv6 Rim Blow required
-SKILL_20160718_006422	Peltasta 3rd Circle required
+SKILL_20160718_006422	Peltaste 3rd Circle required
 SKILL_20160723_006423	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and sword to attack multiple times.
 SKILL_20160723_006424	Duration: #{CaptionRatio}# seconds{nl}Summons #{CaptionRatio2}# Shadow Clones{nl}Damage Increase: #{CaptionTime}#%
 SKILL_20160723_006425	Property Resistance: +#{CaptionRatio}#{nl}Nullification Chance: #{CaptionRatio2}#%{nl}Enemy's Magic Defense: -#{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
@@ -6559,7 +6559,7 @@ SKILL_20161005_006558	Head Strike
 SKILL_20161005_006559	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Aim for the head and deals an attack with high crit chance.
 SKILL_20161005_006560	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Additional Crit Chance CaptionRatio2}#%
 SKILL_20161005_006561	Joust
-SKILL_20161005_006562	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Charges forward to lunge the spear at the enemy and destroy magic circles. The target's INT and SPR stats get reduced and cleric and wizard types will be silenced and normal attacks and skills cannot be used.
+SKILL_20161005_006562	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Charges forward to lunge the spear at the enemy and destroy magic circles. The target's INT and SPR stats get reduced and Clerc and Magicien types will be silenced and normal attacks and skills cannot be used.
 SKILL_20161005_006563	Unhorsing
 SKILL_20161005_006564	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fix your grip on the spear and strike your enemy down downward and take the target off of the companion.
 SKILL_20161005_006565	Quintain
@@ -6710,7 +6710,7 @@ SKILL_20161005_006709	Savior
 SKILL_20161005_006710	Lycanthropy
 SKILL_20161005_006711	Temporarily transform into a wolf.Continuously consume SP while in the wolf form.
 SKILL_20161005_006712	Able to use Wolf Skills{nl}Additional Attack: #{SkillAtkAdd}#{nl}Maximum Duration: #{CaptionTime}# minutes{nl}Consumes 2% SP per minute
-SKILL_20161005_006713	Summon the Henge Stone. Increases skill levels of magic circles and installations by cleric type clases by 1 and stats while in the transformed mode.
+SKILL_20161005_006713	Summon the Henge Stone. Increases skill levels of magic circles and installations by Clerc type clases by 1 and stats while in the transformed mode.
 SKILL_20161005_006714	Set up a shop that can change the character's gender. 
 SKILL_20161005_006715	Gender change can be performed as many as the amount of required items owned.
 SKILL_20161005_006716	Foretell
@@ -6779,7 +6779,7 @@ SKILL_20161005_006778	When hit, your crit chance increases.
 SKILL_20161005_006779	Become vulnerable to gun attacks.
 SKILL_20161005_006780	Great Corruption
 SKILL_20161005_006781	Gradually reduces maximum HP and becomes vulnerable to arrow attacks.{nl}Also, equipped gear becomes corroded and certain stats will be nullified.
-SKILL_20161005_006782	INT stats decreased and cleric and wizard type classes get silenced and become unable to attack or use skills.
+SKILL_20161005_006782	INT stats decreased and Clerc and Magicien type classes get silenced and become unable to attack or use skills.
 SKILL_20161005_006783	Joust: Silence
 SKILL_20161005_006784	INT stat decreased and unable to use skills.
 SKILL_20161005_006785	Attack and Defense decreased.
@@ -6822,7 +6822,7 @@ SKILL_20161005_006821	Bayonet Thrust: Reduce Recovery
 SKILL_20161005_006822	HP and SP recovery decreased.
 SKILL_20161005_006823	Running Shot applied.
 SKILL_20161005_006824	Limacon applied.
-SKILL_20161005_006825	Equip Cassis Crista to use Murmillo skills.{nl}Increases the chance to block Missile Attacks or nullify Magic Attacks.{nl}However, Movement Speed and Evasion Rate for Melee Attacks get decreased.{nl}Depending on acquired attributes, increases Peltasta and Rodelero skills.
+SKILL_20161005_006825	Equip Cassis Crista to use Murmillo skills.{nl}Increases the chance to block Missile Attacks or nullify Magic Attacks.{nl}However, Movement Speed and Evasion Rate for Melee Attacks get decreased.{nl}Depending on acquired attributes, increases Peltaste and Rodelero skills.
 SKILL_20161005_006826	Foretell: Attack Immunity
 SKILL_20161005_006827	Gains a chance to be immune to all attacks.
 SKILL_20161005_006828	Magic Attack Immunity
@@ -6851,7 +6851,7 @@ SKILL_20161005_006850	Increased AoE ratio.
 SKILL_20161005_006851	Instanced Clear Voucher Barrier
 SKILL_20161005_006852	Immune to all damage.
 SKILL_20161005_006853	[One-handed Sword] type Weapon can be equipped on the right hand (sub weapon).
-SKILL_20161005_006854	One-handed Spear Mastery: Medium-sized Hunter
+SKILL_20161005_006854	One-handed Spear Mastery: Medium-sized Chasseur
 SKILL_20161005_006855	When equipped with [One-handed Spear], combating a medium-sized enemy increases your skill damage by 4% per attribute level.
 SKILL_20161005_006856	Zwerchhau: Enhance
 SKILL_20161005_006857	Increases the damage dealt on an enemy with [Zwerchhau] by 1% per attribute level.
@@ -6891,8 +6891,8 @@ SKILL_20161005_006890	Take Down: Enhance
 SKILL_20161005_006891	Increases the damage dealt on an enemy with [Takedown] by 1% per attribute level.
 SKILL_20161005_006892	Frenzied Shoot: Enhance
 SKILL_20161005_006893	Increases the damage dealt on an enemy with [Frenzied Shoot] by 1% per attribute level.
-SKILL_20161005_006894	Enhanced Peltasta Shield Attack
-SKILL_20161005_006895	While equipped with Cassis Crista, Peltastas' Rim Blow, Umbo Blow, Shield Lob Umbo Thrust skill attack damage increases by 40% per attribute level.
+SKILL_20161005_006894	Enhanced Peltaste Shield Attack
+SKILL_20161005_006895	While equipped with Cassis Crista, Peltastes' Rim Blow, Umbo Blow, Shield Lob Umbo Thrust skill attack damage increases by 40% per attribute level.
 SKILL_20161005_006896	Scutum Hit: Enhance
 SKILL_20161005_006897	Increases the damage dealt on an enemy with [Scutum Hit] by 1% per attribute level.
 SKILL_20161005_006898	Headbutt: Additional Damage
@@ -6902,7 +6902,7 @@ SKILL_20161005_006901	[Scutum Hit] has 3% chance of stunning the attacked target
 SKILL_20161005_006902	Enhanced Rodelero Shield Attack
 SKILL_20161005_006903	While equipped with Cassis Crista, Rodelero's skill damage for Shield Charge, Targe Smash, Shield Push, Shield Shove and Shield Bash increases by 20% per attribute level.
 SKILL_20161005_006904	Repeated Hits Attack Boost
-SKILL_20161005_006905	While equipped with Cassis Crista, skill attack damage for Peltasta's Butterfly and Rodelero's Shooting Star increases by 15% per attribute level.
+SKILL_20161005_006905	While equipped with Cassis Crista, skill attack damage for Peltaste's Butterfly and Rodelero's Shooting Star increases by 15% per attribute level.
 SKILL_20161005_006906	Enhanced Hoplite Shield Attack
 SKILL_20161005_006907	While equipped with Cassis Crista, skill attack damage for Hoplite's Synchro Thrusting increases by 28% per attribute level.
 SKILL_20161005_006908	Lancer: Knockdown Chance
@@ -6929,8 +6929,8 @@ SKILL_20161005_006928	Flesh Strike: Enhance
 SKILL_20161005_006929	Increases the damage dealt on an enemy with [Flesh Strike] by 1% per attribute level.
 SKILL_20161005_006930	Raise Skull Archer: Enhance
 SKILL_20161005_006931	Increases the attack of a Skull Archer by 1% per attribute level.
-SKILL_20161005_006932	Necromancer: Enhanced Corruption
-SKILL_20161005_006933	Corruption caused by a Necromancer skill will temporarily nullify the enemy gear.
+SKILL_20161005_006932	Necromancien: Enhanced Corruption
+SKILL_20161005_006933	Corruption caused by a Necromancien skill will temporarily nullify the enemy gear.
 SKILL_20161005_006934	Disinter: Collect Corpse
 SKILL_20161005_006935	When [Disinter] is used, collects even more corpses.
 SKILL_20161005_006936	Dirty Pole: Fragments
@@ -6939,7 +6939,7 @@ SKILL_20161005_006938	Flesh Strike: Shogoth Explosion
 SKILL_20161005_006939	If a shogoth is within the range of [Flesh Strike], it explodes and gives [Corruption] status ailment to nearby enemies for 5 seconds per attribute level. 
 SKILL_20161005_006940	Raise Dead: Enhanced HP
 SKILL_20161005_006941	Increases the HP of a Skull Soldier by 1% per attribute level.
-SKILL_20161005_006942	Necromancer: Corpse Capacity
+SKILL_20161005_006942	Necromancien: Corpse Capacity
 SKILL_20161005_006943	Increases Necronomicon's maximum capacity for corpses increases by 100 per attribute level.
 SKILL_20161005_006944	Raise Dead: Collect Corpse
 SKILL_20161005_006945	When a Skull Soldier defeats a monster, the Necronomicon gains 1 corpse per attribute level.
@@ -7060,11 +7060,11 @@ SKILL_20161005_007059	Increases the damage dealt on an enemy with [Parthian Shaf
 SKILL_20161005_007060	Increases the duration of [Revive] by 7 seconds per attribute level. (Not applicable in TBL or GvG)
 SKILL_20161005_007061	Savior: Duration
 SKILL_20161005_007062	Increases the duration of effects from [Savior] by 1 second per attribute level.
-SKILL_20161005_007063	Druid: Enhanced Attack Speed
+SKILL_20161005_007063	Druide: Enhanced Attack Speed
 SKILL_20161005_007064	Increases the skill casting time while [Shapeshifting] or [Transform] is active.
 SKILL_20161005_007065	Telepath: Crowd Control
 SKILL_20161005_007066	Enemies near the initial target of [Telepath] also get the same effect.
-SKILL_20161005_007067	Druid: Maintain Movement Speed
+SKILL_20161005_007067	Druide: Maintain Movement Speed
 SKILL_20161005_007068	Maintains the character's movement speed after transforming with [Shapeshifting] or [Transform]. 
 SKILL_20161005_007069	Foretell: Duration
 SKILL_20161005_007070	Increases the duration of effects from [Foretell] by 1 second per attribute level.
@@ -7154,7 +7154,7 @@ SKILL_20161005_007153	Lv6 Zucken required
 SKILL_20161005_007154	Lv6 Redel required
 SKILL_20161005_007155	Dragoon 2nd Circle Required
 SKILL_20161005_007156	Enchanter 1st Circle Required
-SKILL_20161005_007157	Falconer 3rd Circle Required
+SKILL_20161005_007157	Fauconnier 3rd Circle Required
 SKILL_20161005_007158	Featherfoot 2nd Circle Required
 SKILL_20161005_007159	Fencer 3rd Circle Required
 SKILL_20161005_007160	Hackapell 1st Circle Required
@@ -7242,7 +7242,7 @@ SKILL_20161214_007241	Max. Duration #{CaptionTime}#seconds{nl}SP Consumption per
 SKILL_20161214_007242	Increase missile attacks.
 SKILL_20161214_007243	Receives additional Holy property damage from melee attacks.
 SKILL_20161214_007244	Wild Nature
-SKILL_20161214_007245	Running increases Barbarian Skill Damage.
+SKILL_20161214_007245	Running increases Barbare Skill Damage.
 SKILL_20161214_007246	Mounted demon becomes stronger.
 SKILL_20161214_007247	Increases Holy and Dark property attacks equal to 8% magic defense for 10 seconds when stacked 100 times.
 SKILL_20161214_007248	Solmiki Plate Set
@@ -7259,7 +7259,7 @@ SKILL_20161214_007258	Pain Barrier: Duration
 SKILL_20161214_007259	Increases [Pain Barrier] duration for 5 seconds.
 SKILL_20161214_007260	Cartar Stroke: Quick Charging
 SKILL_20161214_007261	Decreases the charging time of [Cartar Stroke] by half.
-SKILL_20161214_007262	Activates Wild Nature buff for barbarian skills while dashing.
+SKILL_20161214_007262	Activates Wild Nature buff for Barbare skills while dashing.
 SKILL_20161214_007263	Deadly Combo: Enhance
 SKILL_20161214_007264	Increases the damage dealt on an enemy with [Deadly Combo] by 1% per attribute level. 
 SKILL_20161214_007265	Mortal Slash: Enhance
@@ -7295,7 +7295,7 @@ SKILL_20161214_007294	Ein Sof: Stacked Healing
 SKILL_20161214_007295	While under the effect of [Ein Sof], the amount recovered by HP increases by 10% per Attribute Level.
 SKILL_20161214_007296	While [Sweeping] is maintained, duration for nearby allies' Magic Circles increases by 1 second per Attribute Level.
 SKILL_20161214_007297	Miko 1st Circle required
-SKILL_20161214_007298	Squire 3rd Circle required
+SKILL_20161214_007298	Ecuyer 3rd Circle required
 SKILL_20161214_007299	Templar 2nd Circle required
 SKILL_20161223_007300	Increased EXP gains and movement speed.
 SKILL_20161226_007301	Fortune Cookies - 1

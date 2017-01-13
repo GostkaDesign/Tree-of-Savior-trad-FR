@@ -848,9 +848,9 @@ UI_20150317_000847	Enter a keyword to search
 UI_20150317_000848	All attribute values
 UI_20150317_000849	{ol}Name
 UI_20150317_000850	{ol}Value
-UI_20150317_000851	Rogue
+UI_20150317_000851	Assassin
 UI_20150317_000852	{ol}Revision
-UI_20150317_000853	{ol}Rogue
+UI_20150317_000853	{ol}Assassin
 UI_20150317_000854	Class list
 UI_20150317_000855	XML Conversion
 UI_20150317_000856	{ol}Class name
@@ -910,7 +910,7 @@ UI_20150317_000909	{@st42}Guerrier{/}
 UI_20150317_000910	{@st42}Magicien{/}
 UI_20150317_000911	{@st42}Archer{/}
 UI_20150317_000912	{@st42}Moine{/}
-UI_20150317_000913	{@st42}Sorcerer{/}
+UI_20150317_000913	{@st42}Sorcier{/}
 UI_20150317_000914	{@st41}Skill{/}
 UI_20150317_000915	{@st59}XML load{/}
 UI_20150317_000916	{@st41}Load{/}
@@ -984,7 +984,7 @@ UI_20150317_000983	{@st59}Hairstyle 8{/}
 UI_20150317_000984	{@st59}Hairstyle 9{/}
 UI_20150317_000985	{@st59}Hairstyle 10{/}
 UI_20150317_000986	{@St43b}Select Class{/}
-UI_20150317_000987	{@st59}Swordsman{/}
+UI_20150317_000987	{@st59}Epéiste{/}
 UI_20150317_000988	{@st59}Magicien{/}
 UI_20150317_000989	{@st59}Archer{/}
 UI_20150317_000990	{@st59}Clerc{/}
@@ -1711,7 +1711,7 @@ UI_20150717_001710	CON : %s
 UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
-UI_20150717_001714	{@st42b}Swordsman types can dash by pressing the arrow key twice.{/}
+UI_20150717_001714	{@st42b}Epéiste types can dash by pressing the arrow key twice.{/}
 UI_20150717_001715	{@st42}Nom de la Partie & Description{/}
 UI_20150717_001716	{@st42}Insert Party Invite Tag
 UI_20150717_001717	{@st41b}Public Party List{/}
@@ -1738,7 +1738,7 @@ UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
 UI_20150729_001739	{@st59}Fermer Arrow Crafting{/}
 UI_20150729_001740	Fragments needed : Mutant %s / Beast %s / Plant %s
-UI_20150729_001741	{@st42b}         Swordsman classes can sprint by                     double-tapping a directional key{/}
+UI_20150729_001741	{@st42b}         Epéiste classes can sprint by                     double-tapping a directional key{/}
 UI_20150729_001742	{@st41}Party Settings
 UI_20150729_001743	{@st41}Party Recruit Settings
 UI_20150729_001744	{@st42}Search for Party Members{/}

@@ -4,8 +4,8 @@ QUEST_LV_0400_20161005_000003	I can't just wonder into places like that you know
 QUEST_LV_0400_20161005_000004	There's rumors of the Alembique Legend among the refugees.{nl}I wanted to know the truth.
 QUEST_LV_0400_20161005_000005	{nl}There might be products that the Alliance is looking for...{nl}Since you were going to explore the cave anyways, it's like hitting two Popolions with one stone.
 QUEST_LV_0400_20161005_000006	{nl}I'll give you this book as payment.{nl}It'll be better than going in blind will it not?
-QUEST_LV_0400_20161005_000007	Priest Lintas is correcting the contents of the monument.{nl}The process is taking some time.
-QUEST_LV_0400_20161005_000008	Thanks to you, the monument has been corrected.{nl}We need to check up on the status of Priest Kidas and Brunas.
+QUEST_LV_0400_20161005_000007	Prêtre Lintas is correcting the contents of the monument.{nl}The process is taking some time.
+QUEST_LV_0400_20161005_000008	Thanks to you, the monument has been corrected.{nl}We need to check up on the status of Prêtre Kidas and Brunas.
 QUEST_LV_0400_20161005_000009	Even with the help, a flechette is nowhere to be found.{nl}I should go back to my master after sorting things out a bit in here.
 QUEST_LV_0400_20161005_000010	Aquilas
 QUEST_LV_0400_20161005_000011	I came here to learn archery but am just running errands finding that blasted arrow...{nl}If I knew that I had to look for arrows. I would not have started this journey...{nl}
@@ -128,7 +128,7 @@ QUEST_LV_0400_20161005_000127	There should be plenty of Mittelly Herbs near Ausn
 QUEST_LV_0400_20161005_000128	{nl}I'm sorry for being so dependant when you simply volunteered to help...
 QUEST_LV_0400_20161005_000129	There are people that have started to deny the existance of the Goddesses after they have all disappeared.{nl}I want to help them believe once more.
 QUEST_LV_0400_20161005_000130	{nl}However...{nl}I lost my faith in people... as well as the Seed...{nl}{nl}
-QUEST_LV_0400_20161005_000131	At this rate...{nl}I am afraid that I might lose all faith in humanity...{nl}Not a good thing for a priest...
+QUEST_LV_0400_20161005_000131	At this rate...{nl}I am afraid that I might lose all faith in humanity...{nl}Not a good thing for a Prêtre...
 QUEST_LV_0400_20161005_000132	Ah, that feels much better.{nl}I don't think it has completely healed me, but it is enough to allow me to dispell the magic.
 QUEST_LV_0400_20161005_000133	All Vaivora's Koru is able to tell us is that Goddess Ausrine is in a mysterious place.
 QUEST_LV_0400_20161005_000134	What do you think that the mysterious place will look like?{nl}We have more questions than answers...
@@ -151,7 +151,7 @@ QUEST_LV_0400_20161005_000150	There might be fragments nearby.{nl}Could you plea
 QUEST_LV_0400_20161005_000151	There should be fragments from the Monument nearby.
 QUEST_LV_0400_20161005_000152	Ah, I see that you've collected quite a few fragments.{nl}Let me check those.
 QUEST_LV_0400_20161005_000153	I've checked all of the fragments you brought back.{nl}There's a few that have misinformation on them, so please give me a second to correct them.
-QUEST_LV_0400_20161005_000154	Priest Kidas
+QUEST_LV_0400_20161005_000154	Prêtre Kidas
 QUEST_LV_0400_20161005_000155	Have you come all this way to help?{nl}May you be blessed by the Goddesses.
 QUEST_LV_0400_20161005_000156	{nl}Checking the contents of this Monument will be difficult.{nl}As you can see, there are too many vines surrounding it.
 QUEST_LV_0400_20161005_000157	{nl}Brunas and myself were trying to get rid of the vegetation here, but we couldn't find any useful materials.
@@ -162,7 +162,7 @@ QUEST_LV_0400_20161005_000161	Of course, they might attack you and resist eating
 QUEST_LV_0400_20161005_000162	The salivary glands you brought should be enough.{nl}However...
 QUEST_LV_0400_20161005_000163	We need water to dilute the poison from the salivary glands you brought.{nl}Brunas went to Putas Lot to get the water, but hasn't come back for a while...
 QUEST_LV_0400_20161005_000164	I hope everything is okay...
-QUEST_LV_0400_20161005_000165	Priest Brunas
+QUEST_LV_0400_20161005_000165	Prêtre Brunas
 QUEST_LV_0400_20161005_000166	Thank you. You saved my life.{nl}Ah, you've collected all of the salivary glands needed?
 QUEST_LV_0400_20161005_000167	{nl}We'll be able to get rid of the vegetation once I take this water there then.{nl}I'll hurry back to Kidas then.
 QUEST_LV_0400_20161005_000168	I've heard that you helped Kidas and Brunas a lot.{nl}Thank you for allowing us to finish our work. It had been stalled for a long time.
@@ -175,7 +175,7 @@ QUEST_LV_0400_20161005_000174	{nl}I'm in the middle of researching that plague.
 QUEST_LV_0400_20161005_000175	I might die before I get anywhere near completing a cure if you don't help me.
 QUEST_LV_0400_20161005_000176	I am going to send the cure to the Plague Doctor Master when it is complete.{nl}I will try strengthening it just in case.
 QUEST_LV_0400_20161005_000177	Go and see how Woognis is doing at the Vilkas Nest.
-QUEST_LV_0400_20161005_000178	Something must have happened to Priest Lintas who was dispelling the magic from the monument. Approach him to see what is wrong.
+QUEST_LV_0400_20161005_000178	Something must have happened to Prêtre Lintas who was dispelling the magic from the monument. Approach him to see what is wrong.
 QUEST_LV_0400_20161005_000179	Kidas has removed the vegetation from the Monument and is taking a closer look.{nl}It seems to be taking much longer than expected.
 QUEST_LV_0400_20161005_000180	You've come back.{nl}I heard that you saved Brunas from monsters.
 QUEST_LV_0400_20161005_000181	{nl}I thank you for helping us gather all of the ingredients and saving Brunas.{nl}We finished diluting the poison while you were coming back.
@@ -437,7 +437,7 @@ QUEST_LV_0400_20161005_000436	{nl}I didn't know that you've put your life at ris
 QUEST_LV_0400_20161005_000437	I can't wait here for someone that won't return.{nl}Alta... We have to punish him.
 QUEST_LV_0400_20161005_000438	{nl}Don't stop me!{nl}I'll go even if you try and stop me!
 QUEST_LV_0400_20161005_000439	How did it come to this...{nl}How...
-QUEST_LV_0400_20161005_000440	{nl}I'm finished if that priest reports me to headquarters!{nl}I feel sorry for my people but I have to make preparations...
+QUEST_LV_0400_20161005_000440	{nl}I'm finished if that Prêtre reports me to headquarters!{nl}I feel sorry for my people but I have to make preparations...
 QUEST_LV_0400_20161005_000441	{nl}Listen to me, we can't allow something similar to happen can we?{nl}Listen to me!
 QUEST_LV_0400_20161005_000442	If what Celvica and you are saying is true, there must be some other record.{nl}We'd better find it.
 QUEST_LV_0400_20161005_000443	{nl}It might be dangerous for you a bit but we need to uncover the truth. People's lives are at stake.{nl}Please, I beg of you.
@@ -468,7 +468,7 @@ QUEST_LV_0400_20161005_000467	Leave me... alone...
 QUEST_LV_0400_20161005_000468	The Cave of Legends : Revised Edition Volume 1
 QUEST_LV_0400_20161005_000469	There have been many tales{nl}of mysterious locations{nl}long before written history.{nl}This book contains three{nl}of those wonderous locations.{nl}
 QUEST_LV_0400_20161005_000470	The reasoning behind selecting{nl}the particular locations is as follows.{nl}{nl}The masses are only a little less interested{nl}about riches such as treasure and gold{nl}than they are about the Goddesses.{nl}{nl}We will start with the legends of Alembique.
-QUEST_LV_0400_20161005_000471	Chapter 1 Legends of Alembique{nl}-{nl}There are tales of a cave named Alembique{nl}in the southern province of Kiren.{nl}{nl}It is said that a brilliant alchemist{nl}created many invaluable goods{nl}and occasionally invited people{nl}to show off to them.
+QUEST_LV_0400_20161005_000471	Chapter 1 Legends of Alembique{nl}-{nl}There are tales of a cave named Alembique{nl}in the southern province of Kiren.{nl}{nl}It is said that a brilliant Alchimiste{nl}created many invaluable goods{nl}and occasionally invited people{nl}to show off to them.
 QUEST_LV_0400_20161005_000472	Nobody seems to know the location{nl}of the mysterious Alembique Cave.{nl}{nl}However, older people in several villages{nl}tell their descendants of being invited to the cave,{nl}and not wanting to leave the place{nl}as they had experienced never before seen luxuries.{nl}{nl}Therefore, people from these villages{nl}have a habit of congratulating any people that have gone missing{nl}and hope that they will also be invited one day.
 QUEST_LV_0400_20161005_000473	The Cave of Legends : Revised Edition Volume 2
 QUEST_LV_0400_20161005_000474	The reasoning behind selecting{nl}the particular locations is as follows.{nl}{nl}The masses are only a little less interested{nl}about riches such as treasure and gold{nl}than they are about the Goddesses.{nl}{nl}We will now go on to the hidden Royal Mausoleum.
@@ -485,13 +485,13 @@ QUEST_LV_0400_20161005_000484	However, there is something suspicious{nl}about th
 QUEST_LV_0400_20161005_000485	As such, many people believe that{nl}this legend is fictional{nl}as there is no record of Barconsi.{nl}However, they do not try to explain{nl}why Barconsi's name is involved.{nl}Of course, there are also many people{nl}that keep searching for the gold.
 QUEST_LV_0400_20161005_000486	Refugee Brandon
 QUEST_LV_0400_20161005_000487	I should have listened when everyone was telling me off!{nl}This forest is dangerous!
-QUEST_LV_0400_20161005_000488	I don't understand why that hunter would want to keep this forest for himself.
+QUEST_LV_0400_20161005_000488	I don't understand why that Chasseur would want to keep this forest for himself.
 QUEST_LV_0400_20161005_000489	Umm, could you help me?
 QUEST_LV_0400_20161005_000490	{nl}I barely managed to get out of a trap, but I hurt my leg and can't go any further.{nl}Please help me.
 QUEST_LV_0400_20161005_000491	There's some Whitetailed Grass at Turas Lot... They say it will relieve pain.{nl}I think I'll manage to walk if I'm chewing on that.
 QUEST_LV_0400_20161005_000492	There should be some in the surrounding area.{nl}Could you get some for me?
 QUEST_LV_0400_20161005_000493	Thank you so much.{nl}I'm going to get out of here.
-QUEST_LV_0400_20161005_000494	{nl}There seems to be a violent hunter that wants to claim this land as his own.{nl}I doubted that until I got caught in one of his traps.
+QUEST_LV_0400_20161005_000494	{nl}There seems to be a violent Chasseur that wants to claim this land as his own.{nl}I doubted that until I got caught in one of his traps.
 QUEST_LV_0400_20161005_000495	{nl}From what I've heard, he's known to have tamed a beast in order to chase people off...{nl}You should avoid getting any deeper into the forest as well.
 QUEST_LV_0400_20161005_000496	I thought you were simply a nosy adventurer, but you seem to be a cut above the rest.
 QUEST_LV_0400_20161005_000497	Let me introduce myself.{nl}My name is Vilhelmas.
@@ -514,7 +514,7 @@ QUEST_LV_0400_20161005_000513	{nl}He cursed me when he was cornered.{nl}My sight
 QUEST_LV_0400_20161005_000514	{nl}Anyways, he put a red gem through himself after that.{nl}He started to transform after that.
 QUEST_LV_0400_20161005_000515	{nl}I'm sure you might have guessed from listening up to this point, but the beast is the demon.{nl}I realized at once that the demon was much more dangerous than before.
 QUEST_LV_0400_20161005_000516	{nl}Of course, he had a bit of fear left for me and ran as well.{nl}The long and boring fight between the two of us has been dragging on ever since then.
-QUEST_LV_0400_20161005_000517	{nl}Tracking that thing with this curse wasn't easy.{nl}Having limited vision as a hunter is  almost a death sentance.
+QUEST_LV_0400_20161005_000517	{nl}Tracking that thing with this curse wasn't easy.{nl}Having limited vision as a Chasseur is  almost a death sentance.
 QUEST_LV_0400_20161005_000518	{nl}I put up warnings to ward people away but refugees kept coming in despite of my efforts.{nl}I think I'll be able to settle this fight once and for all with your help though.
 QUEST_LV_0400_20161005_000519	{nl}Please, lend me your strength.
 QUEST_LV_0400_20161005_000520	Very good.{nl}Try dealing with the Kugheri of this forest.{nl}If you are able to deal with them, you might be good enough to take on the beast with me.
@@ -849,11 +849,11 @@ QUEST_LV_0400_20161005_000848	It's not a good idea to spread out.
 QUEST_LV_0400_20161005_000849	Alembique Tales(6)
 QUEST_LV_0400_20161005_000850	I will find it. Just hold on.
 QUEST_LV_0400_20161005_000851	There must be some other way.
-QUEST_LV_0400_20161005_000852	Commanding Officer Gigho has disappeared.{nl}Report to Priest Celvica.
+QUEST_LV_0400_20161005_000852	Commanding Officer Gigho has disappeared.{nl}Report to Prêtre Celvica.
 QUEST_LV_0400_20161005_000853	Alembique Tales(7)
 QUEST_LV_0400_20161005_000854	I will find Edeline.
 QUEST_LV_0400_20161005_000855	Alembique Tales(8)
-QUEST_LV_0400_20161005_000856	Priest Celvica has left to find Kedoran Alliance Merchant Alta.{nl}Find Alta before something happens.
+QUEST_LV_0400_20161005_000856	Prêtre Celvica has left to find Kedoran Alliance Merchant Alta.{nl}Find Alta before something happens.
 QUEST_LV_0400_20161005_000857	A Legend's Reality
 QUEST_LV_0400_20161005_000858	I need an indulgence!
 QUEST_LV_0400_20161005_000859	The price of life
@@ -861,7 +861,7 @@ QUEST_LV_0400_20161005_000860	I will check it out.
 QUEST_LV_0400_20161005_000861	Legs must work properly
 QUEST_LV_0400_20161005_000862	Say that it will be safe enough
 QUEST_LV_0400_20161005_000863	Giving herbs
-QUEST_LV_0400_20161005_000864	There is something suspicious about the mysterious hunter.{nl}Go and ask him about what really happened.
+QUEST_LV_0400_20161005_000864	There is something suspicious about the mysterious Chasseur.{nl}Go and ask him about what really happened.
 QUEST_LV_0400_20161005_000865	Trap after trap(1)
 QUEST_LV_0400_20161005_000866	Trap after trap(2)
 QUEST_LV_0400_20161005_000867	Poison will be strong enough
@@ -980,7 +980,7 @@ QUEST_LV_0400_20161005_000979	Maven's Wishes(3)
 QUEST_LV_0400_20161005_000980	Agree to go and find the Monument
 QUEST_LV_0400_20161005_000981	Say that you will help later
 QUEST_LV_0400_20161005_000982	Maven's Wishes(5)
-QUEST_LV_0400_20161005_000983	Go with Priest Lintas to find the Monument
+QUEST_LV_0400_20161005_000983	Go with Prêtre Lintas to find the Monument
 QUEST_LV_0400_20161005_000984	Leave him to go and find the Monument on his own
 QUEST_LV_0400_20161005_000985	Maven's Wishes(6)
 QUEST_LV_0400_20161005_000986	Agree to gather Mittelly Herbs
@@ -995,7 +995,7 @@ QUEST_LV_0400_20161005_000994	Ask how you should help
 QUEST_LV_0400_20161005_000995	Weeding(1)
 QUEST_LV_0400_20161005_000996	Agree to gather Vilkas salivary glands
 QUEST_LV_0400_20161005_000997	Weeding(2)
-QUEST_LV_0400_20161005_000998	Agree to search for Priest Brunas
+QUEST_LV_0400_20161005_000998	Agree to search for Prêtre Brunas
 QUEST_LV_0400_20161005_000999	Say that he will come if you wait here
 QUEST_LV_0400_20161005_001000	Maven's Wishes(4)
 QUEST_LV_0400_20161005_001001	Follow him
@@ -1044,20 +1044,20 @@ QUEST_LV_0400_20161005_001043	Talk to nervous Mercenary Heranda
 QUEST_LV_0400_20161005_001044	The monsters are chasing after Mercenary Heranda. You cannot see such monsters but defeat monsters to comfort Mercenary Heranda.
 QUEST_LV_0400_20161005_001045	You've defeated the nearby monsters enough. Go and comfort Mercenary Heranda.
 QUEST_LV_0400_20161005_001046	Defeat nearby monsters
-QUEST_LV_0400_20161005_001047	Go to Priest Celvica
-QUEST_LV_0400_20161005_001048	Find Priest Celvica in the area told by Mercenary Heranda
+QUEST_LV_0400_20161005_001047	Go to Prêtre Celvica
+QUEST_LV_0400_20161005_001048	Find Prêtre Celvica in the area told by Mercenary Heranda
 QUEST_LV_0400_20161005_001049	Return to Mercenary Heranda
-QUEST_LV_0400_20161005_001050	Priest Celvica says Mercenary Heranda must not be left alone. Bring Heranda back here.
+QUEST_LV_0400_20161005_001050	Prêtre Celvica says Mercenary Heranda must not be left alone. Bring Heranda back here.
 QUEST_LV_0400_20161005_001051	Find Traces of Mercenary Heranda
-QUEST_LV_0400_20161005_001052	You've brought Heranda as Priest Celvica asked you to but Heranda vanished. Find traces of Heranda.
-QUEST_LV_0400_20161005_001053	Talk with Priest Celvica
-QUEST_LV_0400_20161005_001054	You have not found Mercenary Heranda but found the traces. Return to Priest Celvica.
-QUEST_LV_0400_20161005_001055	Priest Celvica is waiting for your help.
+QUEST_LV_0400_20161005_001052	You've brought Heranda as Prêtre Celvica asked you to but Heranda vanished. Find traces of Heranda.
+QUEST_LV_0400_20161005_001053	Talk with Prêtre Celvica
+QUEST_LV_0400_20161005_001054	You have not found Mercenary Heranda but found the traces. Return to Prêtre Celvica.
+QUEST_LV_0400_20161005_001055	Prêtre Celvica is waiting for your help.
 QUEST_LV_0400_20161005_001056	Defeat Cave Ravinelarva
-QUEST_LV_0400_20161005_001057	Based on the note of Heranda, Priest Celvica has figured out a way to survive the mysterious living thing. For everyone's safety, defeat Cave Ravinelarva.
-QUEST_LV_0400_20161005_001058	You've successfully defeated Cave Ravinelarva like Priest Celvica. Return to Celvica.
+QUEST_LV_0400_20161005_001057	Based on the note of Heranda, Prêtre Celvica has figured out a way to survive the mysterious living thing. For everyone's safety, defeat Cave Ravinelarva.
+QUEST_LV_0400_20161005_001058	You've successfully defeated Cave Ravinelarva like Prêtre Celvica. Return to Celvica.
 QUEST_LV_0400_20161005_001059	Find the officer group
-QUEST_LV_0400_20161005_001060	Priest Celvica figured out the location of the mercenaries based on Heranda's note. Go to the place told by Celvica.
+QUEST_LV_0400_20161005_001060	Prêtre Celvica figured out the location of the mercenaries based on Heranda's note. Go to the place told by Celvica.
 QUEST_LV_0400_20161005_001061	Talk to Commanding Officer Gigho
 QUEST_LV_0400_20161005_001062	Commanding Officer Gigho ins great peril. 
 QUEST_LV_0400_20161005_001063	Retrieve Mecenary Company Antidote
@@ -1065,14 +1065,14 @@ QUEST_LV_0400_20161005_001064	Commanding Officer Gigho is unable to move due to 
 QUEST_LV_0400_20161005_001065	Return to Commanding Officer Gigho
 QUEST_LV_0400_20161005_001066	You've retrieved Mecenary Company Antidote from Commanding Officer Gigho. Return to Gigho.
 QUEST_LV_0400_20161005_001067	Retrieve %s from the monsters
-QUEST_LV_0400_20161005_001068	Return to Priest Celvica
-QUEST_LV_0400_20161005_001069	Gigho has disappeared. Tell this fact to Priest Celvica.
+QUEST_LV_0400_20161005_001068	Return to Prêtre Celvica
+QUEST_LV_0400_20161005_001069	Gigho has disappeared. Tell this fact to Prêtre Celvica.
 QUEST_LV_0400_20161005_001070	Find Traces of Edeline
-QUEST_LV_0400_20161005_001071	Priest Celvica begs you to find Edeline in the area told by Commanding Officer Gigho
-QUEST_LV_0400_20161005_001072	You've defeated Ravinepede. A necklace, presumably belong to Edeline, has been found. Return to Priest Celvica.
-QUEST_LV_0400_20161005_001073	Talk to Priest Celvica
+QUEST_LV_0400_20161005_001071	Prêtre Celvica begs you to find Edeline in the area told by Commanding Officer Gigho
+QUEST_LV_0400_20161005_001072	You've defeated Ravinepede. A necklace, presumably belong to Edeline, has been found. Return to Prêtre Celvica.
+QUEST_LV_0400_20161005_001073	Talk to Prêtre Celvica
 QUEST_LV_0400_20161005_001074	Find Kedoran Alliance Merchant Alta
-QUEST_LV_0400_20161005_001075	Priest Celvica cannot accept the fate of the loved one. Celvica says Kedoran Alliance Merchant Alta has something to say.
+QUEST_LV_0400_20161005_001075	Prêtre Celvica cannot accept the fate of the loved one. Celvica says Kedoran Alliance Merchant Alta has something to say.
 QUEST_LV_0400_20161005_001076	Kedoran Alliance Merchant Alta is looking for your help.
 QUEST_LV_0400_20161005_001077	Find the Alembique Cave Scriptures
 QUEST_LV_0400_20161005_001078	Kedoran Alliance Merchant Alta wants to prevent any further casualties and investigate what happened in Alembique Cave thoroughly. Go to Alembique Cave and find something like records
@@ -1095,13 +1095,13 @@ QUEST_LV_0400_20161005_001094	Deal with the trapped monsters
 QUEST_LV_0400_20161005_001095	You have been caught in a trap. You must deal with the monsters that are in the trap with you as they have become violent.
 QUEST_LV_0400_20161005_001096	Deal with the violent monsters
 QUEST_LV_0400_20161005_001097	Getting out of the trap
-QUEST_LV_0400_20161005_001098	You have dealed with all of the monsters but are still trapped. Wait until the mysterious hunter disarms the trap.
-QUEST_LV_0400_20161005_001099	Track the mysterious hunter
-QUEST_LV_0400_20161005_001100	According to Refugee Brandon, the mysterious hunter is planning something in the forest. Track him in order to find out the truth.
-QUEST_LV_0400_20161005_001101	Track the mysterious hunter
-QUEST_LV_0400_20161005_001102	You have received treatment from the mysterious hunter. He told you to follow him if you wish to learn the truth behind the rumors. Follow him to his hideout.
-QUEST_LV_0400_20161005_001103	Talk with the mysterious hunter
-QUEST_LV_0400_20161005_001104	You have succeeded in following the mysterious hunter to his hideout. Listen to his side of the story.
+QUEST_LV_0400_20161005_001098	You have dealed with all of the monsters but are still trapped. Wait until the mysterious Chasseur disarms the trap.
+QUEST_LV_0400_20161005_001099	Track the mysterious Chasseur
+QUEST_LV_0400_20161005_001100	According to Refugee Brandon, the mysterious Chasseur is planning something in the forest. Track him in order to find out the truth.
+QUEST_LV_0400_20161005_001101	Track the mysterious Chasseur
+QUEST_LV_0400_20161005_001102	You have received treatment from the mysterious Chasseur. He told you to follow him if you wish to learn the truth behind the rumors. Follow him to his hideout.
+QUEST_LV_0400_20161005_001103	Talk with the mysterious Chasseur
+QUEST_LV_0400_20161005_001104	You have succeeded in following the mysterious Chasseur to his hideout. Listen to his side of the story.
 QUEST_LV_0400_20161005_001105	Talk to Vilhelmas
 QUEST_LV_0400_20161005_001106	Vilhelmas seems to require help in defeating the beast. Talk to him.
 QUEST_LV_0400_20161005_001107	Defeat the monsters indicated by Vilhelmas
@@ -1275,38 +1275,38 @@ QUEST_LV_0400_20161005_001274	Defeat Vilkas and obtain %s
 QUEST_LV_0400_20161005_001275	Find the Flechette by using the Flechette Detection Device
 QUEST_LV_0400_20161005_001276	Find the Flechette with the Flechette Detection Device
 QUEST_LV_0400_20161005_001277	Maven's Wishes
-QUEST_LV_0400_20161005_001278	Talk to Priest Lintas
-QUEST_LV_0400_20161005_001279	Talk to Priest Lintas
+QUEST_LV_0400_20161005_001278	Talk to Prêtre Lintas
+QUEST_LV_0400_20161005_001279	Talk to Prêtre Lintas
 QUEST_LV_0400_20161005_001280	Find the documents on dispelling transformation magic
 QUEST_LV_0400_20161005_001281	Retrieve the documents that have been scattered due to the monsters
 QUEST_LV_0400_20161005_001282	Find %s
 QUEST_LV_0400_20161005_001283	Find the Orb by using the Orb of Vigor
-QUEST_LV_0400_20161005_001284	The Orb required to disarm the seal has been taken by the monsters. Priest Lintas suggests using the Orb of Vigor in order to find the Orb. Magic will flow towards the Orb from the Orb of Vigor when used. Follow the magic from the Orb of Vigor.
-QUEST_LV_0400_20161005_001285	Follow Priest Lintas
-QUEST_LV_0400_20161005_001286	Priest Lintas has found King Kadumel's Monument. Follow Priest Lintas.
-QUEST_LV_0400_20161005_001287	Find King Kadumel's Monument with Priest Lintas
-QUEST_LV_0400_20161005_001288	Priest Lintas wishes to search for King Kadumel's second Monument. Go and search for the monument with him. Priest Lintas will search for the monument if you take him to Ackatin Intersection.
+QUEST_LV_0400_20161005_001284	The Orb required to disarm the seal has been taken by the monsters. Prêtre Lintas suggests using the Orb of Vigor in order to find the Orb. Magic will flow towards the Orb from the Orb of Vigor when used. Follow the magic from the Orb of Vigor.
+QUEST_LV_0400_20161005_001285	Follow Prêtre Lintas
+QUEST_LV_0400_20161005_001286	Prêtre Lintas has found King Kadumel's Monument. Follow Prêtre Lintas.
+QUEST_LV_0400_20161005_001287	Find King Kadumel's Monument with Prêtre Lintas
+QUEST_LV_0400_20161005_001288	Prêtre Lintas wishes to search for King Kadumel's second Monument. Go and search for the monument with him. Prêtre Lintas will search for the monument if you take him to Ackatin Intersection.
 QUEST_LV_0400_20161005_001289	Gather Mittelly Herbs
-QUEST_LV_0400_20161005_001290	Priest Lintas is showing paralysis symptoms because of the spores from the bracken covering the monument. You will have to gather Mittelly Herbs in order to reduce the symptoms. Gather Mittelly Herbs from Ausne Lot.
+QUEST_LV_0400_20161005_001290	Prêtre Lintas is showing paralysis symptoms because of the spores from the bracken covering the monument. You will have to gather Mittelly Herbs in order to reduce the symptoms. Gather Mittelly Herbs from Ausne Lot.
 QUEST_LV_0400_20161005_001291	Obtain Vilkas's dry skin
 QUEST_LV_0400_20161005_001292	You must burn the braken from near the Monument because of the spores. Burn the braken with Vilkas's dry skin.
 QUEST_LV_0400_20161005_001293	Burn the bracken
 QUEST_LV_0400_20161005_001294	Burn the bracken by using Vilkas's dry skin.
 QUEST_LV_0400_20161005_001295	Find King Kadumel's Monument with the detector
-QUEST_LV_0400_20161005_001296	Priest Lintas seems to still be suffering from the effects of the bracken spore. Go and find King Kadumel's Monument with the detector in his place.
-QUEST_LV_0400_20161005_001297	You have found something that looks like a Monument. Return to Priest Lintas and tell him about your findings.
-QUEST_LV_0400_20161005_001298	Talk to Priest Lintas
+QUEST_LV_0400_20161005_001296	Prêtre Lintas seems to still be suffering from the effects of the bracken spore. Go and find King Kadumel's Monument with the detector in his place.
+QUEST_LV_0400_20161005_001297	You have found something that looks like a Monument. Return to Prêtre Lintas and tell him about your findings.
+QUEST_LV_0400_20161005_001298	Talk to Prêtre Lintas
 QUEST_LV_0400_20161005_001299	Find fragmenst from King Kadumel's third Monument
 QUEST_LV_0400_20161005_001300	You have found King Kadumel's third Monument, but it is too damaged to read what is on it. You must find it's fragments in order to make sense of what is written on it. Search the surrounding area in order to find it's fragments.
 QUEST_LV_0400_20161005_001301	Weeding
-QUEST_LV_0400_20161005_001302	Talk to Priest Kidas
-QUEST_LV_0400_20161005_001303	Talk to Priest Kidas
+QUEST_LV_0400_20161005_001302	Talk to Prêtre Kidas
+QUEST_LV_0400_20161005_001303	Talk to Prêtre Kidas
 QUEST_LV_0400_20161005_001304	Gather Vilkas salivary glands
 QUEST_LV_0400_20161005_001305	It is difficult to see what is written on King Kadumel's Monument as it is covered in vegetation. Try removing the vegetation by using a potion. You will be able to obtain Vilkas salivary glands by feeding them Mytiharyn Grass. Feed Mytiharyn Grass to the Vilkas once they have been weakened.
-QUEST_LV_0400_20161005_001306	Find Priest Brunas
-QUEST_LV_0400_20161005_001307	Priest Kidas is worried about Priest Brunas since it has been a long time since he went to Putas Lot. Go to Putas Lot and find Priest Brunas.
-QUEST_LV_0400_20161005_001308	Talk to Priest Brunas
-QUEST_LV_0400_20161005_001309	Talk to Priest Brunas
+QUEST_LV_0400_20161005_001306	Find Prêtre Brunas
+QUEST_LV_0400_20161005_001307	Prêtre Kidas is worried about Prêtre Brunas since it has been a long time since he went to Putas Lot. Go to Putas Lot and find Prêtre Brunas.
+QUEST_LV_0400_20161005_001308	Talk to Prêtre Brunas
+QUEST_LV_0400_20161005_001309	Talk to Prêtre Brunas
 QUEST_LV_0400_20161005_001310	Retrieve the Flechette
 QUEST_LV_0400_20161005_001311	Retrieve the Flechette
 QUEST_LV_0400_20161005_001312	Talk to Ohla
